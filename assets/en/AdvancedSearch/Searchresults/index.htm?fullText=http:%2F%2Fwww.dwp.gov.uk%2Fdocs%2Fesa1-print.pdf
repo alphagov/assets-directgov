@@ -1,0 +1,376 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"
+      xml:lang="en">
+<head>
+    <meta http-equiv="Expires" content="-1"/>
+    <meta http-equiv="Pragma" content="no-cache"/>
+    <meta http-equiv="Cache-Control" content="no-cache"/>
+    <meta name="Exalead-UI-build" lang="en" content="cloudview 5.1.9 DG custom build 01-015"/>
+    <meta name="language" lang="en" content="English"/>
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+    
+    <base href="http://www.direct.gov.uk/en/AdvancedSearch/search/C.view=search_en&amp;C.s=eJzVVdtuhCAU*Bpfmmi4LF4e3W77G4Yodc1u0Qpb!*nFQ1aC1cb1qX0BZMYzzByDqu11QE8BiT*MdNa6CwijuRnIKwzDMETV0EV1!xndLrBVtaWChVAch13fSB111ZupIXuhbletTCmMzLMy1QuuSiGrRtZmd9y8clgKORI0101Z9FxeDKEQX52poJpWwpkYSWfDO1fjGdiRZHBOmNjpiYzouCZHR0ktJQXKDEsslixhscXiJYxZjC1hB4sd7hi1w3Q2Commqmx7EbolROkMAPMZOX44sazn1VdpjlwMa8FRqJzD9M!CW7WErSX8iKVsUQdNX3*qUoaK9MWP3fLvjzRnNE4TlKHYtivEXkMf6M8eM3!jP7MIHrLte3K2f5fCeI!UF9FmKbRHykt8qxTK9kh5Ddws9eN22SLlfQ!bpZJ1qWz8LbR1U5prXwnel!dCyG*Ooovt/"/>
+    <title>Search results : Directgov - Search results</title>
+
+
+    <link rel="icon" href="/prod_consum_dg/DGFragmentsCode/CloudView/images/favicon.ico" type="text/css" media="screen" charset="utf-8"/>
+    <link rel="stylesheet" href="/prod_consum_dg/DGFragmentsCode/CloudView/css/search.css" type="text/css" media="screen" charset="utf-8"/>
+
+    <!--Direct Gov specific CSS -->
+    <link rel="shortcut icon" href="/prod_consum_dg/DGFragmentsCode/images/favicon.ico"/>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgovprint.css" rel="stylesheet" type="text/css" media="print"/>
+
+    <!--[if lt IE 5.5000]>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov_ie5.css" rel="stylesheet" type="text/css" media="screen"/>
+    <![endif]-->
+    <!--[if lte IE 6]>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov_ie6.css" rel="stylesheet" type="text/css" media="screen"/>
+    <![endif]-->
+    <!--[if IE 7]>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov_ie7.css" rel="stylesheet" type="text/css" media="screen"/>
+    <![endif]-->
+    <!--[if IE 8]>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov_ie8.css" rel="stylesheet" type="text/css" media="screen"/>
+    <![endif]-->
+    <!--[if !IE]>-->
+    <link href="/prod_consum_dg/DGFragmentsCode/directgov_noie.css" rel="stylesheet" type="text/css" media="screen"/>
+    <link href="/prod_consum_dg/DGFragmentsCode/directgovprint_noie.css" rel="stylesheet" type="text/css"
+          media="print"/>
+
+    <!--<![endif]-->
+
+    <link rel="alternate stylesheet" type="text/css" href="/prod_consum_dg/DGFragmentsCode/standard.css"
+          title="Standard"/>
+    <link rel="alternate stylesheet" type="text/css" href="/prod_consum_dg/DGFragmentsCode/larger.css" title="Larger"/>
+    <link rel="alternate stylesheet" type="text/css" href="/prod_consum_dg/DGFragmentsCode/largest.css"
+          title="Largest"/>
+
+    <script type="text/javascript" src="/prod_consum_dg/DGFragmentsCode/events.js"></script>
+    <script type="text/javascript" src="/prod_consum_dg/DGFragmentsCode/textresize.js"></script>
+    <!--END Direct Gov specific CSS -->
+
+
+</head>
+<body id="results" class="">
+<div id="overlayFix">
+<div id="page">
+    <div id="c01" class="noindex">
+        <div id="dgr01">
+            <div>
+                <div class="directLogo"></div>
+
+                <a href="/en/index.htm"
+                   title="Link to Directgov homepage" tabindex="1"><img
+                        src="/prod_consum_dg/DGFragmentsCode/images/printLogo.gif" alt=""/></a>
+                <a id="skip" href="http://www.direct.gov.uk/en/AdvancedSearch/search/C.view=search_en&amp;C.s=eJzVVdtuhCAU*Bpfmmi4LF4e3W77G4Yodc1u0Qpb!*nFQ1aC1cb1qX0BZMYzzByDqu11QE8BiT*MdNa6CwijuRnIKwzDMETV0EV1!xndLrBVtaWChVAch13fSB111ZupIXuhbletTCmMzLMy1QuuSiGrRtZmd9y8clgKORI0101Z9FxeDKEQX52poJpWwpkYSWfDO1fjGdiRZHBOmNjpiYzouCZHR0ktJQXKDEsslixhscXiJYxZjC1hB4sd7hi1w3Q2Commqmx7EbolROkMAPMZOX44sazn1VdpjlwMa8FRqJzD9M!CW7WErSX8iKVsUQdNX3*qUoaK9MWP3fLvjzRnNE4TlKHYtivEXkMf6M8eM3!jP7MIHrLte3K2f5fCeI!UF9FmKbRHykt8qxTK9kh5Ddws9eN22SLlfQ!bpZJ1qWz8LbR1U5prXwnel!dCyG*Ooovt/results?q=http%3a%2f%2fwww.dwp.gov.uk%2fdocs%2fesa1-print.pdf#dgContent" tabindex="2" accesskey="s" class="accessibility skip-link">Go to main content</a>
+                <h1 class="accessibility">Website of the UK government</h1>
+
+                <p class="accessibility">Please note that this website has a UK government accesskeys system.</p>
+
+                <div class="tagLine"><span>Public services all in one place</span></div>
+                <span id="dgTop" class="accessibility"></span>
+
+                <h2 class="accessibility">Main menu</h2>
+            </div>
+
+        </div>
+    </div>
+    <div id="c02" class="noindex">
+        <div id="dgr02">
+            <ul>
+                <li><a href="/en/index.htm">Home</a>
+                </li>
+                <li><a href="/en/Dl1/Directories/index.htm">Contacts</a></li>
+
+                <li><a href="/en/Diol1/DoItOnline/index.htm">Do it online</a></li>
+                <li><a href="/en/Nl1/Newsroom/index.htm"
+                       class="lastLink">Newsroom</a></li>
+            </ul>
+            
+
+<div class="rightDate">
+    Thursday,&nbsp;4&nbsp;October&nbsp;2012  
+</div>
+        </div>
+    </div>
+    
+    
+            <script type="text/javascript">window.directgovCSApageID="ID : Search-No-Results"</script>
+        
+
+    <div id="contentFloatFix">
+        <div id="contentBlockFix">
+            <div id="contentWidthFix">
+                <div id="contentInnerFloatFix">
+                    <div id="content" class="noresults">
+                        <div class="clearer" ></div>
+
+                            <div id="refineZoneWrapper">
+                                <div id="refineZone">
+                                    <div id="refineZoneTop">
+                                        
+                                    </div>
+                                    
+                                    <div class="clearer" ></div>
+                                </div>
+                            </div>
+                        <div id="hitsZoneWrapper">
+                            <div id="hitsZone">
+                                <span class="accessibility" id="dgContent"></span>
+                                <h2 id="resultsLabel">Search results</h2>
+                                <div id="header">
+                                    
+
+
+<form class="multiView" id="searchForm" action="/en/AdvancedSearch/search/C.view=search_en/results" method="get" accept-charset="utf-8">
+	
+		<!--<ul id="searchViews">
+			
+						<li class="selected">
+							<span class="viewName">
+								search_en
+							</span>
+							<span class="viewArrow">^</span>
+						</li>
+					
+						<li>
+							<a class="viewLink" href="/en/AdvancedSearch/search/C.view=right_hits/results?q=http%3a%2f%2fwww.dwp.gov.uk%2fdocs%2fesa1-print.pdf">
+								right_hits
+							</a>
+						</li>
+					
+		</ul>-->
+	
+
+    <div id="searchFormLabel"><h3><label for="searchInput">Search for</label></h3></div>
+	<div id="searchFormContent">
+        <input id="searchInput" type="text" name="q" value="http://www.dwp.gov.uk/docs/esa1-print.pdf" />
+         <div class="t">
+          <div class="b">
+           <div class="l">
+            <div class="r">
+             <div class="bl">
+              <div class="br">
+               <div class="tl">
+                <div class="tr">
+                    <button id="searchButton" type="submit" >Go</button>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+    </div>
+	<a href="#" class="advancedSearchLink" style="">Advanced search</a>
+	<input id="sortedByInput" type="hidden" name="s" value="" />
+	<input id="ascendingSortInput" type="hidden" name="sa" value="0" />
+	<input id="fullHitsInput" type="hidden" name="hf" value="10" />
+</form>
+                                </div>
+                                
+                                 <div id="hitsZoneTop">
+                                    
+		<div id="resultsInfo">
+            
+                           <p>Sorry, no results were found for "http://www.dwp.gov.uk/docs/esa1-print.pdf"</p>
+                           <div id="dgr13" class="blueChevron">
+                                <p>Please search again with different words, or try one of these links</p><ul class="subLinks"><li><a href="/en/Hl1/Help/DG_10016071"  >Search help</a></li><li><a href="/en/Hl1/Help/SiteMap/DG_A-Z_SM"  >A-Z index</a></li><li><a href="/en/Hl1/Help/index.htm"  >Help with using Directgov</a></li><li><a href="/en/index.htm"  >Go to the Directgov homepage</a></li></ul>
+                           </div>
+                        
+		</div>
+	
+                                </div>
+                                
+                            </div>
+
+                        </div>
+                        <div class="clearer" ></div>                    
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="rightBlock">
+        <div id="dgr10">
+            <div class="lightOrangeBox">
+                <h3>Search tips</h3>
+                <ul>
+                    <!--<li><a href="#" class="advancedSearchLink" >Advanced search</a></li>  -->
+                    <li><a href="/en/Hl1/Help/DG_10016071">Search help</a></li>
+                   <!-- <li>
+                        <a href="/en/AdvancedSearch/top100/DG_072883">Popular searches on Directgov</a></li>
+                    -->
+
+                </ul>
+            </div>
+
+               
+
+        </div>
+
+    </div>
+
+
+    
+    <div class="clearer"></div>
+
+<script src="/prod_consum_dg/DGFragmentsCode/CloudView/javascript/jquery.js" type="text/javascript" charset="utf-8"></script>
+<script src="/prod_consum_dg/DGFragmentsCode/CloudView/javascript/search.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript">
+    var hitsInfo = [];
+    suggests = [];
+    $().ready(function() {
+
+        $("#hits .hit").enableThumbnailPreviewLink();
+
+        var $searchInput = $("#searchInput");//.focus();
+        if (true) {
+            suggests = $searchInput.enableSuggest("/en/AdvancedSearch/suggest/C.view=search_en/",
+            {format:"default",
+                queryParameter:"q",
+                bodyHideControlsClass:"hideSearchOptions",
+            suggestionLabel:"Suggestions",
+            closeLabel:"close"});
+        }
+
+        $("#fullHits select").change(function() {
+            $("#fullHitsInput").attr("value", this.value);
+            $("#searchForm").attr("action", "results").submit();
+        });
+
+        $("#sortedBy select").change(function() {
+            $("#sortedByInput").attr("value", this.value);
+            $("#ascendingSortInput").attr("value", ((this.selectedIndex - 1) % 2 == 1) ? "1" : "0");
+            $("#searchForm").attr("action", "results").submit();
+        });
+
+        if (false) {
+            $("#hits .hit").enableReportOpenDoc("/en/AdvancedSearch/reporting/C.view=search_en&amp;C.s=eJzVVdtuhCAU*Bpfmmi4LF4e3W77G4Yodc1u0Qpb!*nFQ1aC1cb1qX0BZMYzzByDqu11QE8BiT*MdNa6CwijuRnIKwzDMETV0EV1!xndLrBVtaWChVAch13fSB111ZupIXuhbletTCmMzLMy1QuuSiGrRtZmd9y8clgKORI0101Z9FxeDKEQX52poJpWwpkYSWfDO1fjGdiRZHBOmNjpiYzouCZHR0ktJQXKDEsslixhscXiJYxZjC1hB4sd7hi1w3Q2Commqmx7EbolROkMAPMZOX44sazn1VdpjlwMa8FRqJzD9M!CW7WErSX8iKVsUQdNX3*qUoaK9MWP3fLvjzRnNE4TlKHYtivEXkMf6M8eM3!jP7MIHrLte3K2f5fCeI!UF9FmKbRHykt8qxTK9kh5Ddws9eN22SLlfQ!bpZJ1qWz8LbR1U5prXwnel!dCyG*Ooovt/reportopendocument", "results", hitsInfo);
+        }
+
+        $("#hits .hit").each(function(index, hit) {
+            addDebugInfoToHitIfAvailable(hit, hitsInfo[index]);
+        });
+        $('a#skip').focusin(function(){
+            $(this).toggleClass("accessibility");
+        });
+        $('a#skip').focusout(function(){
+            $(this).toggleClass("accessibility");
+        });
+    });
+</script>
+
+<script src="/en/AdvancedSearch/search/advanced-search-panel/search_en/en" type="text/javascript" charset="utf-8">
+</script>
+
+<div class="clearFix"></div>
+
+<div id="c09" class="noindex">
+    <div id="dgr04">
+        <h2 class="accessibility">Global links</h2>
+        <ul>
+            <li><a href="/en/SiteInformation/DG_4004497">About Directgov</a></li>
+            <li><a href="/en/SiteInformation/DG_10015420">Linking to Directgov</a></li>
+            <li><a href="/en/SiteInformation/DG_020455">Terms and conditions</a></li>
+            <li><a href="/en/SiteInformation/DG_020456">Your privacy</a></li>
+            <li><a href="/en/SiteInformation/DG_020460" class="lastLink">©
+                Crown copyright</a></li>
+        </ul>
+    </div>
+</div>
+
+<div id="c11" class="noindex">
+    <div id="dgr08">
+
+        <ul id="GlobControl">
+            <li>
+                <div><a href="/en/Hl1/Help/SiteMap/index.htm"
+                        class="lastLink" tabindex="6">Site index</a></div>
+            </li>
+            <li>
+                <div><a href="/en/Hl1/Help/index.htm" tabindex="5">Help</a></div>
+            </li>
+            <li>
+                <div><a href="/en/Hl1/Help/Accessibility/index.htm" tabindex="4">Accessibility</a></div>
+            </li>
+            <li>
+                <div>
+                    <a href="/cy/AdvancedSearch/search/" tabindex="3" lang="cy">Cymraeg</a></div>
+            </li>
+        </ul>
+
+        <form action="/en/AdvancedSearch/search/C.view=search_en/results" method="get">
+            <div>
+                <label for="SearchSite" accesskey="4">Search this site</label>
+                <input value="" class="searchTextField" id="SearchSite" name="q" type="text" tabindex="98"/>
+            </div>
+            <div class="function submit left">
+                <div class="t">
+                    <div class="b">
+                        <div class="l">
+                            <div class="r">
+                                <div class="bl">
+                                    <div class="br">
+                                        <div class="tl">
+                                            <div class="tr"> <span>
+                 <input value='Go' type="submit" tabindex="99"/>
+                 </span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+</div>    
+<div id="accessKeys" class="noindex">
+    <h2>Access keys</h2>
+    <ul>
+        <li><a href="/en/index.htm" accesskey="1">Home</a></li>
+        <li><a href="/en/Nl1/Newsroom/index.htm" accesskey="2">Newsroom</a></li>
+        <li><a href="/en/Hl1/Help/SiteMap/index.htm" accesskey="3">Site index</a></li>
+        <li><a href="/en/Hl1/Help/index.htm" accesskey="6">Help</a></li>
+        <li><a href="/en/Hl1/Help/ContactUs/ContactUsForm/index.htm"
+               accesskey="7">Complaints</a></li>
+        <li><a href="/en/SiteInformation/DG_020455" accesskey="8">Terms and conditions</a></li>
+        <li>
+            <a href="/prod_consum_dg/idcplg?IdcService=SS_GET_PAGE&amp;siteId=en&amp;ssTargetNodeId=7&amp;ssDocName=DG_020463"
+               accesskey="0">Access key details</a></li>
+        <li><a href="#dgTop">Back to top</a></li>
+    </ul>
+</div>
+
+<div class="accessibility">
+    <script type="text/javascript" src="/prod_consum_dg/DGFragmentsCode/ProphetInsert.js"></script>
+    <noscript><img src="http://directgov.stcllctrs.com/OWCPZPDTRUV/noScript.bmp" alt=""/></noscript>
+
+    <script type="text/javascript" src="/prod_consum_dg/DGFragmentsCode/NielsenAnalytics.js"></script>
+    <noscript>
+        <div><img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=fsa&amp;cg=directgov" alt=""/></div>
+    </noscript>
+    <script type="text/javascript" src="/prod_consum_dg/DGFragmentsCode/webanalytics3.js"></script>
+    <noscript><!-- webanalytics3.js--></noscript>
+</div>
+</div>
+    <!--
+    Exalead Direct Gov Custom Search UI
+    Build : 01-015
+    Author : Jean-Marc Leoni
+    Date : 15/06/2011
+    -->
+</body>
+</html>
+

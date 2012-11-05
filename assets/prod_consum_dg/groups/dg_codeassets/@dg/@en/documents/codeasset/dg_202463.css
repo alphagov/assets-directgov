@@ -1,0 +1,87 @@
+/* ie6 stylesheet */
+
+/* styles for form */
+form.infobox {
+	background:none !important;
+	padding:0 0 0 0 !important;
+}
+fieldset.local_directgov {
+	padding:0 0 0 0 !important;
+	margin:-10px 0 -10px 0 !important;
+}
+.infobox .local_directgov label.enterterms {
+	margin-top: 5px !important;
+}
+
+#local_directgov_options {
+behavior:expression(window.dropdown_menu_hack!=null?window.dropdown_menu_hack(this):0);
+}
+
+span.connectbutton input {
+	width:5em !important;
+	padding:3px 21px 2px 8px !important;
+}
+#dgr03 div.darkOrangeBox .infobox a.more {
+	background-position:0 10px !important;
+}
+/* styles for form end */
+
+
+#c00 {width:expression(document.body.clientWidth > 1005 ? "995px" : document.body.clientWidth < 790 ? "770px" : "100%" );}
+
+
+#c11 {position:absolute;}
+
+#dgr02 ul {margin-left:5px;}
+#dgr02 div.rightDate {top:-13px;}
+
+#dgr06 div.straightToContainer {width:auto;}
+
+#dgr03 h3 {background-position:1px 0;width:176px;}
+#dgr03 li {width:170px;margin-left:3px;}
+
+
+#dgr07 div.greyBox{
+display:block;
+float:left;
+}
+#dgr07 div.greyBox a{
+width:170px;
+}
+#dgr07 a.noarrow{
+display:block;
+float:left;
+}
+
+
+#dgr06 div.itemHighlight ul li {
+display:inline-block;
+}
+
+
+.largeImageHolder {
+	padding-bottom:10px;
+}
+
+.promoTextBoxInner {
+	margin-top:0px !important;
+}
+
+
+.ticker {
+	margin:7px 0px 6px 20px;
+}
+.ticker .buttons {
+	margin:0;
+}
+
+
+/* this makes the png transparent in ie6 */
+div.promoTextBoxInner, div.promoTextBox {	
+	behavior: url(/prod_consum_dg/groups/dg_digitalassets/@dg/documents/digitalasset/dg_177567.htc); 
+}
+/* end transparent png */
+
+#c11 {
+right:280px;
+}

@@ -1,0 +1,308 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* combined css for budget 2012 */
+/* ------------------------------------------------------------------*/
+
+
+
+
+/* STYLESHEET FOR Zone 3 images and RHMs */
+/*----------------------------------------------*/
+
+.dgr10 h3 {
+font-size:120%;
+}
+
+.dgr10 div.darkOrangeBox h4 {
+clear:left;
+font-size:100%;
+margin:3px 0 0;
+padding:0 3px 3px 15px;
+}
+
+.dgr10 div.darkOrangeBox img, .dgr10 div.lightOrangeBox img {
+height:120px;
+width:200px;
+border:none;
+padding:2px 0px 2px 0;
+margin:5px 0 5px 10px;
+}
+div.grid_9 .dgr10 div.lightOrangeBox img {
+    margin: 5px 0 5px 70px;
+}
+
+.dgr10 .darkOrangeBox ul li a, .dgr10 .lightOrangeBox ul li a  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox ul li a:visited, .dgr10 div.darkOrangeBox ul li a:visited, .dgr10 .lightOrangeBox ul li a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#660099;
+}
+
+.dgr10 .darkOrangeBox .tweetContainer ul li a {
+background:none no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox .tweetContainer ul li a:visited, .dgr10 div.darkOrangeBox .tweetContainer ul li a:visited {
+background:none no-repeat scroll 3px 5px transparent;
+color:#660099;
+}
+
+
+
+
+/* STYLESHEET to get bullets etc inline */
+/*----------------------------------------------*/
+#dgr11 ul {
+/*display: inline;*/
+padding-left: 10px;
+}
+
+#dgr11 div.subContent h4 {
+display: inline;
+}
+
+#dgr11 div.subContent subLinks {
+display: inline;
+} 
+
+
+
+/* HIDE syndication-only content */
+.textAlternative {display:none;
+}
+
+
+
+/* styling for the twitter feed scroll */
+.tweetContainer {
+    width: 212px;
+    height: 33em; /* total visible tweets, in this case set to 4 */ 
+    overflow: hidden; /*keep tweets outside of the container from being seen */
+    /*padding: 2px;*/
+    border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	position: relative;
+}
+#tw {
+    width: 210px;
+    position: relative;
+    list-style-type: none;
+    top: -6em; /* allows a tweet to be moved into hidden space before scrolling into view */
+    margin: 0px;
+    padding: 5em 0 0;
+}
+.tweetImage {
+    float: left;
+    padding-right: 0.5em;
+}
+.tweet {
+    height: 8.75em;
+    padding-top: 0.3em;
+    font-size: 85%;
+    border-bottom: 1px solid #ccc;
+}
+div.tweetImage a {
+	background: none repeat scroll 0 0 transparent;
+	padding: 0 0 0 5px;
+}
+div.tweetBody a {
+	background: none repeat scroll 0 0 transparent;
+	padding: 0 0 0 0px;
+	color:#0000FF;
+	display:inline;
+}
+div.tweetBody a:visited {
+	color:#660099;
+}
+div.tweetBody {
+	padding: 0 0 0 5px;
+}
+div.tweetDate {
+	font-size: 80%;
+	font-style: italic;
+	padding: 0 0 0 5px;
+}
+.tweet img {
+	width:40px;
+	height:40px;
+	padding-top: 0.3em;
+}
+.tweet li {
+	padding: 10px 0;
+}
+div.wrap .darkOrangeBox .tweetContainer h3 {
+	background: url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/et/images/rhm_tl.gif") no-repeat scroll left top #E0E0E0;
+    display: block;
+    padding: 3px 3px 3px 15px;
+	margin-top: 0;
+}
+
+
+
+
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW
+/* ---------------------------------------------------- */
+#slideshow {
+width: 700px;
+background-color: #464431;
+/*border: 1px solid #ddd;*/
+}
+
+#slideshow ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+height: 1%; /* IE fix */}
+
+#slideshow ul:after {
+content: ".";
+clear: both;
+display: block;
+height: 0;
+visibility: hidden;}            
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW > SLIDES
+/* ---------------------------------------------------- */
+#slideshow .slides {
+overflow: hidden;
+width: 700px;
+}
+
+#slideshow .slides ul {
+width: 2880px;
+padding: 0px;}
+
+#slideshow .slides li {
+width: 700px;
+float: left;
+margin: 0px;}
+
+#slideshow .slides h2 {
+margin-top: 0;}
+
+/* Slide contents ------------------------------------- */
+#tabs_Slideshow .sets {
+	display:-moz-inline-stack;
+    display:inline-block;
+   display:inline;
+	width:285px;
+	position:relative;
+}
+#tabs_Slideshow .sets .content-set{width:120px !important; float:left;}
+.content-set a{padding:0px;
+}
+.content-set img{
+border:0px;
+width:700px;
+}
+.slides p {
+font-size:120%;
+font-weight:bold;
+color:#fff;
+margin-top:8px;
+padding: 4px 10px !important;
+}
+
+.slides p a, .slides p a:visited {
+background:none;
+background-image:none;
+background-color:#464431;
+color:#fff;
+padding: 0;
+display:inline-block;
+}
+
+#tabs_Slideshow .sets .content-view{width:150px; float:left; margin-left:10px;}
+#tabs_Slideshow .sets img{border:none;}
+
+/* Slide contents ------------------------------------- */
+
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW > NAVIGATION
+/* ---------------------------------------------------- */
+#slideshow .slides-nav {
+background-color: #fff;
+border-top: 3px solid #d24e1d;}
+
+#slideshow .slides-nav li {
+float: left;}
+
+#slideshow .slides-nav li a {
+display: block;
+padding: 4px 10px;
+outline: none;
+background: none;
+background-color: #84a066;
+color: #fff;
+}
+
+.js #slideshow .slides-nav li.on,
+.js #slideshow .slides-nav li.on a {
+background: none;
+background-color: #5e7b39;
+font-weight: bold;
+/*height:28px;*/
+-moz-border-radius-bottomright: 15px;
+border-bottom-right-radius: 15px;
+-moz-border-radius-bottomleft: 15px;
+border-bottom-left-radius: 15px;
+}
+.js #slideshow .slides-nav li.on,
+.js #slideshow .slides-nav li.on a {
+}
+
+.js #slideshow .slides-nav li.on a {
+position: relative;
+top: -4px;}
+
+/* ---------------------------------------------------- */
+/* H3 > HEADING and AUDIO PLAYER
+/* ---------------------------------------------------- */
+
+.dgr11 div.subContent h3, .dgr10 h3 {
+background:none repeat scroll 0 0 transparent;
+border-top:1px solid #E0E0E0;
+font-size:120%;
+font-weight:bold;
+margin:50px 0 6px;
+padding:5px 0 4px;
+}
+
+#Zone3 .dgr10 h3 {
+    background: url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/rhm_tl.gif") no-repeat scroll left top #E0E0E0;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.audio {
+padding:8px 0 18px;
+}
+
+div.subContent a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#0000FF;
+display:inline-block;
+}
+
+
+div.subContent a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#660099;
+}
+
+div.subcontent li {
+padding: 14px 0;
+}

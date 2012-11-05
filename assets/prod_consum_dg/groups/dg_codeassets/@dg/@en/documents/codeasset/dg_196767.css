@@ -1,0 +1,25 @@
+/* ---------------------------------------------------- */
+/* H3 > HEADING and P and LINKS within subContent
+/* ---------------------------------------------------- */
+
+div.subContent h3 {
+background:none repeat scroll 0 0 transparent;
+border-top:1px solid #E0E0E0;
+font-size:120%;
+font-weight:bold;
+margin:7px 0 6px;
+padding:8px 0 4px;
+}
+
+
+div.subContent a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#FF5B00;
+display:inline-block;
+}
+
+
+div.subContent a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#BF4400;
+}

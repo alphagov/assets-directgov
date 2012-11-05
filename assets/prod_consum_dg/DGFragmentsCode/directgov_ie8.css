@@ -1,0 +1,54 @@
+@import url('directgov_noie.css');
+/* v8.6 */
+#c00 {width:expression(document.body.clientWidth < 760? "750px": "100%" ); position:relative}
+#c02 {position:relative; padding-right:0px}
+#c03_float_noRightNav div#dgr11 {margin-right:15px}
+#c09 {background:#fff; width:100%; float:left}
+#dgr04 {width:auto}
+#dgr09 {width:100%}
+#dgr02 div.rightDate {top:12px;margin-top:-7px;}
+#dgr03 div.redBox {float:none}
+#dgr04 ul {margin:0px; padding:0 0 3px 0; border-top:none; float:left; width:100%;font-size:95%;}
+.dgr05 div.lastNewsHighlight {margin-left:-2px}
+#c14 .dgr05 div.lastNewsHighlight {padding-bottom:6px;}
+#dgr08 form {clear:none;}
+.function input {overflow:visible;}
+#dgr13 .searchsite div.goButton input {margin-left:-5px;padding-left:0;}
+#dgr13 .searchsite div.goButton {margin-top:-2px;}
+#dgr11 div.formContent div.infoContainer span.checkBox input {margin-top:-2px;}
+#dgr11 p.cobranding.logo img {margin-left:10px;margin-bottom:3px;}
+#dgr09 div.itemHighlight ul {margin-top:0;}
+#dgr09 div.itemHighlight ul li {margin-bottom:-3px;}
+a span.newwindowicon {display:inline-block !important;}
+#dgr09 div.linksContainer ul li a {padding-bottom:2px}
+#dgr09 div.evenItemContainer {margin-right:-2px}
+#dgr11 ul {margin:0px 10px 10px 30px}
+#dgr11 ol {margin:0px 10px 10px 40px}
+#dgr11 div.ImageAndCaption_largeImage p.captionText {margin:-2px 0px 0px 0px}
+#dgr11 div.formContent {width:100%}
+#dgr11 span.submitButton input {padding:2px 18px 2px 0px}
+#dgr11 span.resetButton input {padding:2px 5px 2px 0px}
+#dgr11 div.formContent input.checkBox {margin-left:-3px; margin-top:0px}
+#dgr11 div.formContent label.radioLabel {padding-top:2px}
+#dgr11 ul.subLinks li {width:100%}
+#dgr15 ul {margin:0px 10px 10px 30px}
+#dgr15 ol {margin:0px 10px 10px 40px}
+#dgr15 div.dcEnvelope input.dcNext {padding:2px 18px 2px 0px}
+#dgr11 ul.subLinks a {display:inline;}
+#dgr13 .searchContainer h4 strong {background-position:3px 2px;}
+#c12 .dgr05  div div {margin-right:-1px;}
+#c12 .dgr05 div.cornerBR {float:left;margin-bottom:-100px;padding-bottom:100px;}
+#c12 .dgr05 div.cornerTL {display:inline-block;width:100%;padding-right:0;}
+#c12 .dgr05 div.cornerTR {display:inline-block;width:100%;}
+#c12 .dgr05 div.inner {display:inline-block;width:auto;}
+#c13 #promoB {overflow:hidden;}
+#c13 .dgr05 div.cornerBR {margin-bottom:-100px;padding-bottom:100px;height:1%;}
+#c13 .dgr05 div div {float:left;}
+#c13 .dgr05 div.cornerTL {display:inline-block;width:100%;padding-right:0;}
+#c13 .dgr05 div.cornerTR {display:inline-block;width:100%;}
+#c13 .dgr05 div.inner {display:inline-block;width:auto;}
+#dgr10 div.darkOrangeBox, #dgr10 div.lightOrangeBox {position:relative;}
+#dgr07, #dgr10, #c08, .rssbox {word-wrap:break-word;}
+#c08 {position:relative;}
+#dgr10 .submitcont {padding-bottom:3px!important;}
+#dgr03 .function.right, #dgr10 .function.right {margin-left:5px;}

@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+/*SPOL specific customisations - Allon Lister 18/04/2012*/
+
+.spol-hero-panel {
+	
+	width: 100%;
+	margin-top: 10px;
+}
+.spol-button-bar {
+	
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	clear: both;
+}
+.spol-make-claim-button {
+	padding-left: 236px;
+}
+.spol-centrecol-top-spacer {
+	padding-top: 0.5em;
+	width: 100%;
+}
+
+/*additional styles added AK 24/04/2012 and 03/05/2012*/
+
+#registercontainer {width:100%;}
+#registerone {width:47%; padding-right:1em; float:left; margin-right:0.75em;}
+#registertwo {width:47%; padding-right:1em; float:left;}
+#registerone ul, #registertwo ul {margin-top:0em !important; padding-top:0 !important;}
+.stepbox {float:left; border:#e0e0e0 solid 1px; padding:0.5em; width:98%;
+background-image:url(http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_187772.gif);
+background-repeat:no-repeat; background-position:0.25em 0.25em;}
+.stepbox div {margin-left:60px;}
+.first ul {margin-top:0 !important;margin-bottom:0 !important;}
+.downtime {border-color:#ff9900;}
+.downtimebox {float:left; background-image:url(http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_187772.gif); background-repeat:no-repeat; background-position:0.25em 0.25em; padding-left:0.5em;}
+.downtimespacer {padding-top:1em; padding-bottom:1em; border:0 !important;}
+
+

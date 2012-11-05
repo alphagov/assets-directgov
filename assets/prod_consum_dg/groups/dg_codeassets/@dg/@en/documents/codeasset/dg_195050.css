@@ -1,0 +1,161 @@
+
+/* ---------------------------------------------------- */
+/* GLOBAL
+/* ---------------------------------------------------- */
+/*html {
+font-size: 76%;}
+
+body {
+font-family: arial, helvetica, sans-serif;
+line-height: 1.4em;
+font-size: 1.2em;
+padding: 5%;} */
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW
+/* ---------------------------------------------------- */
+#slideshow {
+width: 460px;
+background-color: #5e7b39;
+/*border: 1px solid #ddd;*/
+}
+
+#slideshow ul {
+margin: 0;
+padding: 0;
+list-style-type: none;
+height: 1%; /* IE fix */}
+
+#slideshow ul:after {
+content: ".";
+clear: both;
+display: block;
+height: 0;
+visibility: hidden;}            
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW > SLIDES
+/* ---------------------------------------------------- */
+#slideshow .slides {
+overflow: hidden;
+width: 460px;
+}
+
+#slideshow .slides ul {
+width: 2880px;
+padding: 0px;}
+
+#slideshow .slides li {
+width: 460px;
+float: left;
+margin: 0px;}
+
+#slideshow .slides h2 {
+margin-top: 0;}
+
+/* Slide contents ------------------------------------- */
+#tabs_Slideshow .sets {
+	display:-moz-inline-stack;
+    display:inline-block;
+   display:inline;
+	width:285px;
+	position:relative;
+}
+#tabs_Slideshow .sets .content-set{width:120px !important; float:left;}
+.content-set a{padding:0px;
+}
+.content-set img{
+border:0px;
+}
+.slides p {
+font-size:90%;
+font-weight:bold;
+color:#fff;
+padding: 4px 10px !important;
+}
+
+.slides p a, .slides p a:visited {
+background:none;
+background-image:none;
+background-color:#5e7b39;
+color:#fff;
+padding: 0;
+display:inline-block;
+}
+
+#tabs_Slideshow .sets .content-view{width:150px; float:left; margin-left:10px;}
+#tabs_Slideshow .sets img{border:none;}
+
+/* Slide contents ------------------------------------- */
+
+
+/* ---------------------------------------------------- */
+/* SLIDESHOW > NAVIGATION
+/* ---------------------------------------------------- */
+#slideshow .slides-nav {
+background-color: #fff;
+border-top: 3px solid #d24e1d;}
+
+#slideshow .slides-nav li {
+float: left;}
+
+#slideshow .slides-nav li a {
+display: block;
+padding: 4px 10px;
+outline: none;
+background: none;
+background-color: #84a066;
+color: #fff;
+}
+
+.js #slideshow .slides-nav li.on,
+.js #slideshow .slides-nav li.on a {
+background: none;
+background-color: #5e7b39;
+font-weight: bold;
+/*height:28px;*/
+-moz-border-radius-bottomright: 15px;
+border-bottom-right-radius: 15px;
+-moz-border-radius-bottomleft: 15px;
+border-bottom-left-radius: 15px;
+}
+.js #slideshow .slides-nav li.on,
+.js #slideshow .slides-nav li.on a {
+}
+
+.js #slideshow .slides-nav li.on a {
+position: relative;
+top: -4px;}
+
+/* ---------------------------------------------------- */
+/* H3 > HEADING and AUDIO PLAYER
+/* ---------------------------------------------------- */
+
+div.subContent h3 {
+background:none repeat scroll 0 0 transparent;
+border-top:1px solid #E0E0E0;
+font-size:120%;
+font-weight:bold;
+margin:7px 0 6px;
+padding:8px 0 4px;
+}
+
+.audio {
+padding:8px 0 18px;
+}
+
+div.subContent a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#0000FF;
+display:inline-block;
+}
+
+
+div.subContent a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#660099;
+}
+
+div.subcontent li {
+padding: 14px 0;
+}

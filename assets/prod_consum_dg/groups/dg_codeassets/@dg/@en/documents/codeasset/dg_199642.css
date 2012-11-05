@@ -1,0 +1,162 @@
+/* hide textAlternative */
+
+.textAlternative {
+display:none;
+}
+
+/* styling for Zone 1 images and content*/
+
+
+#Zone1 #dgr11 div.ImageAndCaption img {
+height:40px;
+width:120px;
+border:none;
+}
+
+
+#Zone1 #dgr11 div.ImageAndCaption {
+width:120px;
+padding:2px 10px 2px 0;
+}
+
+
+#Zone1 div.ImageAndCaption {
+float:left;
+padding:2px 10px 2px 0;
+width:120px;
+}
+
+#Zone1 div.ImageAndCaption img {
+border:medium none;
+height:40px;
+width:120px;
+}
+
+/* styling for Zones 7, 2, 4 and 5 images and content*/
+
+#dgr11 .subContent {
+float:left;
+}
+
+/* styling for call-out-box*/
+#dgr11 .outer {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_199856.gif") no-repeat scroll left bottom transparent;
+width:140px;
+}
+#dgr11 .callOut .innerCallOut {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_199855.gif") no-repeat scroll left top transparent;
+}
+
+#dgr11 .callOut img {
+height:42px;
+margin:3px 3px 3px 0;
+width:30px;
+}
+
+#dgr11 ul {
+
+padding-left:6px;
+clear:none;
+/*list-style-type:none;
+margin:0px;*/
+}
+
+/*#dgr11 li
+{
+background-image:url(http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_199693.jpg);
+background-repeat:no-repeat;
+background-position:0px 0px; 
+padding-left:14px;
+}*/
+
+#Zone7 #dgr11 div.ImageAndCaption img, #Zone2 #dgr11 div.ImageAndCaption img, #Zone4 #dgr11 div.ImageAndCaption img, #Zone5 #dgr11 div.ImageAndCaption img {
+height:160px;
+width:140px;
+border:none;
+}
+
+#Zone7 #dgr11 div.ImageAndCaption, #Zone2 #dgr11 div.ImageAndCaption, #Zone4 #dgr11 div.ImageAndCaption, #Zone5 #dgr11 div.ImageAndCaption {
+width:160px;
+padding:2px 0px 2px 0;
+}
+
+
+#Zone7 div.ImageAndCaption, #Zone2 div.ImageAndCaption, #Zone4 div.ImageAndCaption, #Zone5 div.ImageAndCaption {
+float:left;
+padding:2px 10px 2px 0;
+}
+
+#Zone7 div.ImageAndCaption img, #Zone2 div.ImageAndCaption img, #Zone4 div.ImageAndCaption img, #Zone5 div.ImageAndCaption img {
+border:medium none;
+height:160px;
+width:140px;
+}
+
+
+/* styling for Zone 3 images and content*/
+
+.dgr10 h3 {
+font-size:120%;
+}
+
+.dgr10 div.darkOrangeBox h4 {
+clear:left;
+font-size:100%;
+margin:3px 0 0;
+padding:0 3px 3px 15px;
+}
+
+.dgr10 div.darkOrangeBox img, .dgr10 div.lightOrangeBox img {
+height:130px;
+width:200px;
+border:none;
+padding:2px 0px 2px 0;
+margin:5px 0 5px 10px;
+}
+
+.dgr10 .darkOrangeBox, .dgr10 .lightOrangeBox {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_199651.gif") no-repeat scroll right bottom transparent;
+margin:0 0 12px;
+overflow:hidden;
+width:100%;
+}
+
+.dgr10 .darkOrangeBox ul li a, .dgr10 .lightOrangeBox ul li a  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox ul li a:visited, .dgr10 div.darkOrangeBox ul li a:visited, .dgr10 .lightOrangeBox ul li a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#660099;
+}
+
+#logo .dgr10 div.lightOrangeBox img {
+height:280px;
+}
+
+
+
+/*.dgr10 div.darkOrangeBox ul li a:visited {
+color:#660066;
+}*/
+
+/* styling for Zone 12 content*/
+
+#Zone12 #dgr11 .subContent {
+background:none repeat scroll 0 0 #F2F1EF;
+margin:0;
+width:690px;
+padding:5px;
+}
+
+#Zone12 div.subContent a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+}
+
+#Zone12 div.subContent a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#660099F;
+}

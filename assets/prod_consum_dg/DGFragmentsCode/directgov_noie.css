@@ -1,0 +1,88 @@
+/* v8.6 */
+#c03_float.rightNavFix, #c08.rightNavFix {z-index:1; position:relative; background:#fff}
+#c03_float_noRightNav div#dgr11 {width:auto}
+#c05 {width:215px}#c06 {margin-left:215px}
+#c09 {float:left; position:relative; background:#fff; width:100%}
+#c14 {padding-top:0}
+#dgr04 {width:auto}
+#dgr09 {width:auto}
+#dgr07 {margin-right:15px}
+#dgr15 {width:auto; overflow:inherit}
+#dgr03 h3 {width:150px}
+#dgr01 a {display:block;top:25px;height:50px; width:195px;}
+#dgr01 div.tagLine {z-index:100;position:absolute;top:63px;left:12px;background-image:none;}
+#dgr02 div.rightDate {margin-top:26px;}
+.dgr05 div#promoA {float:left;}
+.dgr05 div#promoA1 {float:left;padding-top:10px; background:#fff}
+.dgr05 div#promoB {float:left; }
+.dgr05 div div {padding-bottom:0em; margin-bottom:0px}
+.dgr05 div#promoB div {padding-bottom:0; margin-bottom:0}
+.dgr05 div.lastNewsHighlight {margin-left:0}
+#c14 .dgr05 div.lastNewsHighlight {padding-bottom:8px}
+.dgr05 img, .dgr05 div.lastNewsHighlight img {margin-left:0}
+.dgr05 p {padding-left:60px}.dgr05 ul {padding-left:63px}
+#c12 .dgr05 div.inner, #c13 .dgr05 div.inner {overflow:hidden;}
+#dgr06 div.straightToContainerRM {width:auto}
+#dgr07 h3 {width:175px}
+#dgr07 h2 {width:175px}
+#dgr07 p {width:175px}
+#dgr07 ul li a {width:163px}
+#dgr07 ul ul li a { width:152px}
+#dgr07 ul ul ul li a { width:140px}
+#dgr07 ul ul ul ul li a { width:130px}
+#dgr07 ul ul ul ul ul li a {width:120px}
+#dgr07 ul ul ul ul ul ul li a {width:110px}
+#dgr07 ul li a.activeSubTop {width:161px}
+#dgr08 input#SearchSite {width:209px;vertical-align:middle;margin-top:-1px}
+#dgr09 div.pageHeader, #dgr11 div.pageHeader, #dgr15 div.pageHeader {min-height:43px}
+#dgr09 div.pageHeader img {margin-left:0; top:0}
+#dgr09 div.linkSummary {padding-bottom:3px}
+#dgr09 div.evenItemContainer {margin-right:0}
+#dgr09 div.linksContainer ul li a {padding-bottom:5px}
+#dgr09 div.evenItemContainer div {width:auto}
+#dgr09 div.linksContainer div.clearFix {height:2px}
+#dgr11 ul {margin:0 10px 10px 0}
+#dgr11 ol {margin:0 10px 10px 5px}
+#dgr11 span.submitButton input {padding:2px 22px 3px 8px; margin-left:0;min-height:16px}
+#dgr11 span.resetButton input {padding:2px 11px 3px 8px;min-height:16px}
+#dgr11 div.formContent {float:left; width:100%}
+#dgr11 div.formContent input.checkBox {margin-top:5px; margin-right:2px; margin-left:0px}
+#dgr11 div.formContent label.radioLabel {padding-top:4px}
+#dgr11 div.signiture {width:154px}
+#dgr11 div.signiture div.captionText {margin-top:0}
+#dgr11 div.ImageAndCaption {width:152px}
+#dgr11 div.pageHeader img {margin-left:0; top:0}
+#dgr11 ul.atoz li {height:1.5em; width:1.4em}
+#dgr11 ul.subLinks li {clear:left}
+#dgr11 div.contactsInfo li {width:100%}
+#dgr11 form {width:auto}
+#dgr11 div.linkSummary ul {float:left}
+#dgr13 div.searchWithin {width:auto}
+#dgr13 div.infoBar_block {width:auto}
+#dgr13 div.goButton input {padding:2px 22px 2px 4px}
+#dgr13 div.displayContainer {width:auto}
+#dgr13 div.searchContent div span {left:0; top:1px}
+#dgr13 div.searchContent div {width:auto}
+#dgr15 ul {margin:0 10px 10px 0}
+#dgr15 ol {margin:0 10px 10px 5px}
+#dgr15 div.pageHeader img {margin-left:0; top:0}
+#dgr15 div.dcFormBlock input {margin-bottom:-1px; margin-top:6px}
+#dgr15 div.dcEnvelope input.dcNext {padding:2px 22px 3px 8px}
+#dgr15 div.dcEnvelope input.dcBack {padding:2px 8px 3px 22px}
+#dgr15 div.linkSummary p span {margin-left:-25px}
+#dgr15 input {margin-right:6px}
+#dgr09 div.pageHeader, #dgr11 div.pageHeader, #dgr15 div.pageHeader {min-height:15px}
+#dgr13 .searchWithin div.goButton input {font-size:0px}
+#dgr11 div.atozContainer {padding:2px 0 10px 0}
+#dgr11 div.atozContainer h3 {margin-left:10px}
+#dgr11 ul.atoz {margin-left:10px;width:90%}
+#dgr06 div.peopleItemContainer ul {padding-right:15px}
+#dgr03 h3 {width:auto}
+#dgr03 {margin-left:5px}
+#dgr04 {padding-top:0}
+#dgr04 ul {	padding-top:0;padding-bottom:3px;font-size:95%}
+#dgr15 div.dcEnvelope input.dcNext {padding:2px 22px 3px 8px;margin-left:2px}
+#dgr15 div.dcEnvelope input.dcBack {padding:2px 8px 3px 22px}
+#dgr15 div.dcSubmit {padding-left:0}
+#c13 .dgr05 {width:100%}
+#c13 .dgr05 div.oneBox div.lastNewsHighlight {display:block;width:100% !important;min-height:45px}

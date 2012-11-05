@@ -1,0 +1,6 @@
+#HOUSEGREYBUTTON div.infoContainer {margin-right:-3px; width:70%; float:left; padding-bottom:20px;}
+#HOUSEGREYBUTTON div.infoContainer span {padding-left:10px; padding-right:10px; float:left; text-align:left;}
+
+#HOUSEGREYBUTTON div.infoContainer span.resetButton {background:transparent url(http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/buttonBackgroundGreyLeft.gif) no-repeat bottom left;padding:0 0 0 2px;margin-right:0px}
+
+#HOUSEGREYBUTTON span.resetButton input {font-size:100%; width:auto; background:transparent url(http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/buttonBackgroundGrey.gif) no-repeat bottom right; border:0; font-weight:bold; color:#fff; padding:0px 2px 1px 0; font-family:Verdana, Arial, Helvetica, sans-serif;margin:0; cursor:hand;}

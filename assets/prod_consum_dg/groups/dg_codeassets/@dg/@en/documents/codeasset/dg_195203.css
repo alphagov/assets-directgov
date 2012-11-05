@@ -1,0 +1,17 @@
+/* ---------css to change variable image links into orange -------- */
+
+
+
+/*.var_flash ul li a:visited, .var_img ul li a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#BF4400;
+}
+.var_flash ul li a:hover, .var_img ul li a:hover {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#FF5B00;
+}
+.var_flash ul li a, .var_img ul li a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#FF5B00;
+}
+*/

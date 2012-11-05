@@ -1,0 +1,68 @@
+/* stylesheet for variable clickable image */
+
+
+
+#Zone2 div.ImageAndCaption_largeImage {
+float:left;
+font-size:85%;
+margin:4px 5px 8px 0;
+width:285px;
+}
+
+#Zone2 div.ImageAndCaption_largeImage img {
+border:1px solid #E0E0E0;
+height:200px;
+width:280px;
+}
+
+#Zone2 a.imageLink {
+background:none repeat scroll 0 0 transparent;
+margin:0;
+padding:0;
+}
+
+
+#Zone2 .code_block ul.subLinks {
+list-style:none outside none;
+padding:0;
+margin:0px 4px 0px 4px;
+}
+
+#Zone2 .code_block ul.subLinks li {
+clear:left;
+width:100%;
+}
+
+
+#Zone2 div.subContent a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#0000FF;
+display:inline-block;
+}
+
+
+#Zone2 div.subContent a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#6600990;
+}
+
+#dgr09 .itemContainer,#dgr09 .evenItemContainer {
+padding:0 0 15px 0;
+}
+
+#dgr09 div.itemContainer a,#dgr09 div.evenItemContainer a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#0000FF;
+}
+
+
+#dgr09 div.itemContainer a:visited,#dgr09 div.evenItemContainer a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#660099;
+}
+
+#dgr09 div.linksContainer h3 a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_active.gif") no-repeat scroll 3px 6px #FFFFFF;
+color:#000000;
+float:left;
+}

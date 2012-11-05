@@ -1,0 +1,22 @@
+/* v8.6 */
+body {
+	padding:0% 5% 0% 0%
+}
+#dgr01 {
+	height:105px
+}
+#dgr09 div.itemContainer ul li a {
+	padding-bottom:7px
+}
+#dgr11 div.subContent {
+	padding-top:10px
+}
+#dgr13 div.displayContainer {
+	margin-top:10px
+}
+#dgr13 div.searchContent h4 a {
+	margin-left:-1.25em
+}
+#dgr13 div.searchContent div span {
+	position:relative
+}

@@ -1,0 +1,17 @@
+/* v8.1 */
+/*Grey CTA borders*/
+.function.grey .t, .cancel .t, .previous .t {background: url('greydott.gif') 0 0 repeat-x!important;}
+.function.grey .b, .cancel .b, .previous .b {background: url('greydotb.gif') 0 100% repeat-x!important;}
+.function.grey .l, .cancel .l, .previous .l {background: url('greydotl.gif') 0 0 repeat-y!important;}
+.function.grey .r, .cancel .r, .previous .r {background: url('greydotr.gif') 100% 0 repeat-y!important;}
+/*Grey CTA corners*/
+.function.grey .bl, .clear .bl, .cancel .bl, .previous .bl {background:0 100%  url('greybuttonbl.gif') no-repeat!important;}
+.function.grey .br, .clear .br, .cancel .br, .previous .br {background:100% 100% url('greybuttonbr.gif') no-repeat!important;}
+.function.grey .tl, .clear .tl, .cancel .tl, .previous .tl {background:0 0 url('greybuttontl.gif') no-repeat!important;}
+.function.grey .tr, .clear .tr, .cancel .tr, .previous .tr {background:100% 0  url('greybuttontr.gif') no-repeat!important;} 
+/*CTA Background images*/
+.function.cta-button-left a {background:#d83d0c right center url('arrowright.gif') no-repeat!important;padding-left:8px!important;padding-right:23px!important;}
+
+
+
+

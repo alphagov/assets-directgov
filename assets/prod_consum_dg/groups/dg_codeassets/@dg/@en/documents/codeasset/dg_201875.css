@@ -1,0 +1,42 @@
+/* STYLESHEET FOR Zone 3 images and RHMs */
+/*----------------------------------------------*/
+
+.dgr10 h3 {
+font-size:120%;
+}
+
+.dgr10 div.darkOrangeBox h4 {
+clear:left;
+font-size:100%;
+margin:3px 0 0;
+padding:0 3px 3px 15px;
+}
+
+.dgr10 div.darkOrangeBox img, .dgr10 div.lightOrangeBox img {
+height:120px;
+width:200px;
+border:none;
+padding:2px 0px 2px 0;
+margin:5px 0 5px 10px;
+}
+
+div.grid_9 .dgr10 div.lightOrangeBox img {
+    margin: 5px 0 5px 70px;
+}
+
+.dgr10 .darkOrangeBox ul li a, .dgr10 .lightOrangeBox ul li a  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox ul li a:visited, .dgr10 div.darkOrangeBox ul li a:visited, .dgr10 .lightOrangeBox ul li a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#660099;
+}
+
+/* HIDE syndication-only content */
+
+.textAlternative {display:none;
+}
+

@@ -1,0 +1,38 @@
+
+.top, .middle, .bottom, .footer {
+	width:100% !important;
+}
+.map_info .box.right {
+	margin:20px 0 15px 0px;
+	float:right;
+}
+.middle .map_info .map {
+	display:none;
+}
+.middle{
+	height:31em;
+	margin-bottom:10px;
+}
+.bottom {
+	clear:both;
+}
+.bottom .box {
+	background:#fff !important;
+	float:left;
+	clear:left;
+	width:100%;
+	margin-bottom:0px !important;
+}
+.box_inner {
+	height:auto;
+	margin-bottom:0px !important;
+}
+.bottom span.phone {
+	padding:0 !important;
+}
+.bottom .box p {
+	margin-left:35px !important;
+}
+.dglinks  {
+	display:none;
+}

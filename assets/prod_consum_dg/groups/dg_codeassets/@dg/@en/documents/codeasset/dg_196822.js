@@ -1,0 +1,1 @@
+body.onload ="javascript:initializeExample('postcode', 'example', 'Please enter the postcode in the following style, including capital letters and a space: SW1A 1AA ', 'Type full or part postcode here');"

@@ -1,0 +1,37 @@
+﻿/* ie7 stylesheet */
+
+#c00 {width:expression(document.body.clientWidth > 1005 ? "995px" : document.body.clientWidth < 790 ? "770px" : "100%" );}
+
+#c02 #dgr02 div.rightDate {top:12px !important;}
+
+.promoTextBoxInner {
+	margin-top:0px !important;
+}
+
+
+/* styles for form */
+form.infobox {
+	background:none !important;
+	padding:0 0 0 0 !important;
+}
+fieldset.local_directgov {
+	padding:0 0 0 0 !important;
+	margin:-10px 0 -10px 0 !important;
+}
+.local_directgov legend {
+	margin-left:-7px !important;
+}
+.infobox .local_directgov label.enterterms {
+	margin-top:-13px !important;
+}
+#local_directgov_options {
+behavior:expression(window.dropdown_menu_hack!=null?window.dropdown_menu_hack(this):0);
+}
+span.connectbutton input {
+	width:5em !important;
+	padding:3px 21px 2px 8px !important;
+}
+#dgr03 div.darkOrangeBox .infobox a.more {
+	background-position:0 10px !important;
+}
+/* styles for form end */

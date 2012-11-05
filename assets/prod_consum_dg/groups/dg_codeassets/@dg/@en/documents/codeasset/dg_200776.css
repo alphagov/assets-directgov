@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+#newJSApanel h3 {border:none !important; padding:0.5em 0 0 0;}
+.formwrap .h3bespoke {border:none !important; padding:0.5em 0 0 0.3em !important;}
+
+.col-container{width:95%; }
+.one-third{width:30.66%; min-width: 300px;}
+.two-third{width:65.33%; min-width: 500px;}
+.one-third, .two-third {position:relative; margin-right:2%;
+float:left;  border:#e0e0e0 solid 1px; margin-top: 5px;}
+.last{margin-right:0 !important; clear:right;}
+.clear{clear:both; }
+.spacer{width:100%; height:10px; background:transparent;
+border-bottom:1px solid #e0e0e0; margin-bottom:10px;}
+
+.formwrap {padding:1px; position:relative; margin-bottom:1em;
+overflow:hidden; clear:both;}
+.formcon {background:#fff;overflow:hidden;padding:0 10px;}
+
+.formcon .first {border:none;margin-top:1em;padding-top:0;}
+.formcon .right {float:right;margin-right:0;margin-left:15px;
+margin-bottom:10px;}
+
+.framenavMargin {margin-top: 10px;}
+.h2mtb {background-color:#f2f1ef; margin-bottom: 10px;margin-top: 0px;
+padding: 2px;padding-left: 4px; font-size: 100%;}
+
+.clockimg {margin-left: 60px; width: 240px; float: right;
+background-color: #f2f2f2;
+background-image:url(/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200121.gif);
+background-repeat:no-repeat; background-position:10px 10px;
+}
+.timecallout {margin-left:60px; padding: 10px; float: right;
+background-color: #f2f2f2;}
+.timecallout p {width: 160px;}
+.timeheader{font-size:160%; font-weight:bold;}
+.newbutton {margin-left: 60px; width: 222px; float: right;
+padding:10px 10px 0 10px; background-color: #f2f2f2;}
+
+.warningmsg {padding-left: 30px;margin-right: 20px;
+background-image:url(/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200744.gif);
+background-repeat:no-repeat; background-position: 4px 0px;}
+.discimg {background-image:url(/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200122.gif);
+background-repeat:no-repeat; background-position: 10px 10px;}
+.calloutspacing {margin-left:60px;}
+.jsacentrecol {max-width:480px;}
+
+.next a, .new a {background:#0000FE right url(/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200749.gif) no-repeat !important; padding-right:22px !important;}
+
+/*#c06 {width:98%;}*/
+
+#c06 {width:auto;}
+#c03_float {width:100%; margin-left:0 !important;}
+#c03_blockFix {width:99%; margin-left:0px !important;}
+
+.h3bgcolourfix {background: none !important; font-size: 120% !important; padding-bottom: 4px !important;}

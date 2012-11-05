@@ -1,0 +1,19 @@
+/* v8.6 */
+@media screen,print {
+	* {border:none;margin:0;padding:0;}
+	body {color:#000000;font-family:verdana,arial,sans-serif;font-size:80%;}
+	p {font-size:100%;margin-bottom:10px;line-height:1.2em;}
+	ul {list-style:none;}
+	h1 {font-size:165%;color:#000;margin-bottom:15px;}
+	h2 {font-size:120%;color:#000;margin-bottom:7px;}
+	.rsswrapper {border-top:1px solid #e0e0e0;padding-top:10px;margin-bottom:20px;}
+	.rssfeed .header {border-bottom:1px solid #e0e0e0;margin-bottom:1em;}
+	.rssfeed .header p {position:relative;top:-18px;margin-bottom:0;}
+	.rsscontent {margin-bottom:8px;padding-bottom:13px;border-bottom:1px solid #e0e0e0;}	
+	.rsscontent a, .rssintro a {padding-left:15px;background:#fff url('images/bluelink_active.gif') no-repeat scroll 3px 5px;color:#0000ff;text-decoration:none;}
+	.rsscontent a:visited, .rssintro a:visited {padding-left:15px;background:#fff url('images/bluelink_visited.gif') no-repeat scroll 3px 5px;color:#660099;text-decoration:none;}
+	.rsscontent a:hover, .rssintro a:hover {text-decoration:underline;}		
+}
+@media screen {
+	.rssfeed {margin:0 20px;}
+}

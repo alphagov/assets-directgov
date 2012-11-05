@@ -1,0 +1,103 @@
+/* CSS for internal links call-out */
+
+
+
+.introContent h2 {
+font-size:165%;
+font-weight:bold;
+margin-bottom:15px;
+overflow:hidden;
+padding-bottom:0;
+width:100%;
+}
+
+.introContent h4 {
+margin:6px 0;
+}
+
+p.introText  {
+font-size:120%;
+padding:0 0 10px;
+}
+
+h2 {
+background:none repeat scroll 0 0 #FFFFFF;
+color:#FF5B00;
+font-size:180%;
+margin:0;
+padding:0 0 7px;
+}
+
+
+/* div.subContent {
+float:left;
+margin:0;
+padding:0;
+width:100%;
+} */
+
+.outer {
+background:url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/documents/digitalasset/dg_194986.gif') no-repeat scroll left bottom transparent;
+border:medium none;
+font-size:100%;
+font-weight:normal;
+padding:0;
+width:360px;
+float:right;
+}
+
+
+.callOut .innerCallOut {
+background:url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/documents/digitalasset/dg_194982.gif') no-repeat scroll left top transparent;
+overflow:hidden;
+padding:10px 10px 0;
+}
+
+div.subContent .callOut h4 {
+display:block;
+font-size:100%;
+font-weight:bold;
+padding:0;
+}
+
+.callOut img {
+height:48px;
+margin:3px 3px 3px 0;
+width:60px;
+}
+
+p {
+margin:0;
+padding:0 0 10px;
+}
+
+ul.subLinks {
+clear:both;
+list-style:none outside none;
+margin:0 0 -4px;
+overflow:hidden;
+padding:0 0 10px;
+width:100%;
+}
+
+.callOut ul {
+margin-left:0;
+padding-left:0;
+}
+
+ul.subLinks li {
+clear:left;
+}
+
+ul.subLinks li {
+float:left;
+margin:0;
+padding:0 0 4px;
+width:100%;
+}
+
+
+.callOut ul.subLinks a, .callOut ul.subLinks a:visited, .callOut ul.subLinks a:hover {
+background:url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_195272.gif') no-repeat scroll left 5px transparent;
+color:#000000;
+}

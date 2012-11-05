@@ -1,0 +1,122 @@
+/* STYLESHEET FOR LOCAL DIRECTGOV LOOK-UPS FORM */
+/*----------------------------------------------*/
+
+#transactionForm .localDirectgov {
+background:none repeat scroll 0 0 #F1F0EE;
+border:0.1em solid #DFDFDF;
+float:none;
+margin:0;
+padding:0 0 0.3em 0.8em;
+}
+
+#transactionForm .localDirectgov h4 {
+font-weight:bold;
+padding-bottom:0.5em;
+margin:0;
+}
+
+#bodyContent h4 {
+font-size:1.3em;
+margin:0.5em 0 0;
+}
+
+#transactionForm .localDirectgov label {
+display:inline;
+margin-right:2em;
+}
+
+#transactionForm label {
+font-weight:bold;
+}
+
+#transactionForm input {
+background:none repeat scroll 0 0 #F1F0EE;
+}
+
+#transactionForm .localDirectgov .textBox {
+clear:left;
+float:left;
+margin-top:0.3em;
+width:25em;
+background:none repeat scroll 0 0 #FFFFFF;
+}
+
+#transactionForm .localDirectgov label.noShow {
+left:-9999px;
+position:relative;
+}
+
+#transactionForm .localDirectgov .redButton_left {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_196820.gif") no-repeat scroll left center transparent;
+float:left;
+height:21px;
+margin-left:0.3em;
+margin-top:0.3em;
+padding:0 0 0 2px;
+}
+
+#transactionForm .localDirectgov .goButton {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_196819.gif") no-repeat scroll right center transparent;
+border:medium none;
+color:#FFFFFF;
+float:left;
+font-weight:bold;
+height:21px;
+margin-left:0;
+margin-top:0;
+padding:0 20px 1px 1px;
+text-align:right;
+text-decoration:none;
+}
+
+#transactionForm .localDirectgov #example {
+clear:left;
+font-size:0.8em;
+font-style:normal;
+padding:0.5em 0.5em 0.5em 0;
+}
+div.subContent h3 {
+background:none repeat scroll 0 0 transparent;
+border-top:1px solid #E0E0E0;
+font-size:120%;
+font-weight:bold;
+margin:7px 0 6px;
+padding:8px 0 4px;
+}
+
+div.wrap .darkOrangeBox h3 span {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/et/images/rhm_tr.gif") no-repeat scroll right top transparent;
+display:block;
+padding:3px 3px 3px 15px;
+font-size:100%;
+}
+
+div.darkOrangeBox a:visited.imageLink, div.darkOrangeBox a.imageLink {
+background:none repeat scroll 0 0 transparent;
+margin:0;
+padding:0;
+}
+
+div.wrap .darkOrangeBox li {
+padding:0;
+}
+
+div.wrap a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#000000;
+display:inline-block;
+}
+
+
+div.wrap a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#666666;
+}
+
+div.wrap li {
+padding: 14px 0;
+}
+
+/* HIDE synication-only content */
+.textAlternative {display:none;
+}

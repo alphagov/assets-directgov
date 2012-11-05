@@ -1,0 +1,28 @@
+
+/* stylesheet for 90x90px article row images*/
+
+
+#dgr11 div.ImageAndCaption img {
+height:90px;
+width:90px;
+border:none;
+}
+
+
+#dgr11 div.ImageAndCaption {
+width:90px;
+padding:2px 10px 2px 0;
+}
+
+
+div.ImageAndCaption {
+float:left;
+padding:2px 10px 2px 0;
+width:90px;
+}
+
+div.ImageAndCaption img {
+border:medium none;
+height:90px;
+width:90px;
+}

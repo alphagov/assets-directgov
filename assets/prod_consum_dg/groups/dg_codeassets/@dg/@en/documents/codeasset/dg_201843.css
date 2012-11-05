@@ -1,0 +1,333 @@
+@charset "utf-8";
+/* CSS Document Jubilee page */
+
+
+
+/* STYLESHEET FOR Zone 1 images */
+/*----------------------------------------------*/
+#Zone1 div.ImageAndCaption_largeImage {
+float: left;
+font-size: 85%;
+margin: 4px 5px 8px 0;
+width: 360px;
+}
+
+#Zone1 div.ImageAndCaption_largeImage img {
+border: none;
+height: 320px;
+width: 340px;
+}
+
+#Zone1 #dgr11 p {
+    font-size: 110%;
+}
+
+#Zone1 #dgr11 .callOut.outer, #Zone2 #dgr11 .callOut.outer {
+background: url(http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200753.gif) no-repeat bottom left;
+}
+
+#Zone1 #dgr11 .innerCallOut, #Zone2 #dgr11 .innerCallOut {
+background: url(http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_200754.gif) no-repeat top left;
+}
+
+#Zone1 #dgr11 .innerCallOut p {
+    font-size: 95%;
+}
+
+#dgr11 .outer {
+width: 320px;
+}
+
+/* SPACING FOR Zone 2, 4, 5, 6 and 7 H4s */
+/*----------------------------------------------*/
+#Zone2 #dgr11 .subContent, #Zone4 #dgr11 .subContent, #Zone5 #dgr11 .subContent, #Zone6 #dgr11 .subContent, #Zone7 #dgr11 .subContent {
+padding:8px 0 2px 0;
+}
+
+
+/* STYLESHEET FOR Zone 2, 6 and 7 images */
+/*----------------------------------------------*/
+#dgr11 .subContent {
+float:left;
+}
+
+#Zone7 #dgr11 div.ImageAndCaption img, #Zone2 #dgr11 div.ImageAndCaption img, #Zone6 #dgr11 div.ImageAndCaption img {
+height:140px;
+width:260px;
+border:none;
+}
+
+#Zone7 #dgr11 div.ImageAndCaption, #Zone2 #dgr11 div.ImageAndCaption, #Zone6 #dgr11 div.ImageAndCaption {
+float:left;
+width:270px;
+padding:2px 0px 2px 0;
+}
+
+/* STYLESHEET FOR Zone 4 and 5 images */
+/*----------------------------------------------*/
+
+#Zone4 #dgr11 div.ImageAndCaption img, #Zone5 #dgr11 div.ImageAndCaption img, #Zone4 div.ImageAndCaption img, #Zone5 div.ImageAndCaption img {
+height:120px;
+width:150px;
+border:none;
+}
+
+#Zone4 #dgr11 div.ImageAndCaption, #Zone5 #dgr11 div.ImageAndCaption, #Zone4 div.ImageAndCaption, #Zone5 div.ImageAndCaption {
+float:left;
+width:160px;
+padding:2px 0px 2px 0;
+}
+
+/* STYLESHEET FOR Zone 3 images and RHMs */
+/*----------------------------------------------*/
+
+.dgr10 h3 {
+font-size:120%;
+}
+
+.dgr10 div.darkOrangeBox h4 {
+clear:left;
+font-size:100%;
+margin:3px 0 0;
+padding:0 3px 3px 15px;
+}
+
+.dgr10 div.darkOrangeBox img, .dgr10 div.lightOrangeBox img {
+height:90px;
+width:200px;
+border:none;
+padding:2px 0px 2px 0;
+margin:5px 0 5px 10px;
+}
+
+
+.dgr10 .darkOrangeBox ul li a, .dgr10 .lightOrangeBox ul li a  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#0000FF;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox ul li a:visited, .dgr10 div.darkOrangeBox ul li a:visited, .dgr10 .lightOrangeBox ul li a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#660099;
+}
+
+
+
+/* STYLESHEET FOR Met Office widget */
+/*----------------------------------------------*/
+
+.met {
+background: #000;
+width: 194px;
+font-size:100%;
+color: #fff;	
+margin: none;
+-moz-border-radius: 10px;
+border-radius: 10px;
+padding:3px;
+border-style: solid;
+border-width: 3px;
+border-color: #999;
+}
+
+
+/* STYLESHEET to get bullets etc inline */
+/*----------------------------------------------*/
+#dgr11 ul {
+display: inline;
+padding-left: 10px;
+}
+
+#dgr11 div.subContent h4 {
+display: inline;
+}
+
+#dgr11 div.subContent subLinks {
+display: inline;
+}
+
+
+/* STYLESHEET FOR LOCAL DIRECTGOV LOOK-UPS FORM */
+/*----------------------------------------------*/
+
+#transactionForm .localDirectgov {
+background:none repeat scroll 0 0 #F1F0EE;
+border:0.1em solid #DFDFDF;
+float:none;
+margin:0;
+padding:0 0 0.3em 0.8em;
+}
+
+#transactionForm .localDirectgov h4 {
+font-weight:bold;
+padding-bottom:0.5em;
+margin:0;
+}
+
+#bodyContent h4 {
+font-size:1.3em;
+margin:0.5em 0 0;
+}
+
+#transactionForm .localDirectgov label {
+display:inline;
+margin-right:2em;
+}
+
+#transactionForm label {
+font-weight:bold;
+}
+
+#transactionForm input {
+background:none repeat scroll 0 0 #F1F0EE;
+}
+
+#transactionForm .localDirectgov .textBox {
+clear:left;
+float:left;
+margin-top:0.3em;
+width:25em;
+background:none repeat scroll 0 0 #FFFFFF;
+}
+
+#transactionForm .localDirectgov label.noShow {
+left:-9999px;
+position:relative;
+}
+
+#transactionForm .localDirectgov .redButton_left {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_196820.gif") no-repeat scroll left center transparent;
+float:left;
+height:21px;
+margin-left:0.3em;
+margin-top:0.3em;
+padding:0 0 0 2px;
+}
+
+#transactionForm .localDirectgov .goButton {
+background:url("http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_196819.gif") no-repeat scroll right center transparent;
+border:medium none;
+color:#FFFFFF;
+float:left;
+font-weight:bold;
+height:21px;
+margin-left:0;
+margin-top:0;
+padding:0 20px 1px 1px;
+text-align:right;
+text-decoration:none;
+}
+
+#transactionForm .localDirectgov #example {
+clear:left;
+font-size:0.8em;
+font-style:normal;
+padding:0.5em 0.5em 0.5em 0;
+}
+div.subContent h3 {
+background:none repeat scroll 0 0 transparent;
+border-top:1px solid #E0E0E0;
+font-size:120%;
+font-weight:bold;
+margin:7px 0 6px;
+padding:8px 0 4px;
+}
+
+div.wrap .darkOrangeBox h3 span {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/et/images/rhm_tr.gif") no-repeat scroll right top transparent;
+display:block;
+padding:3px 3px 3px 15px;
+font-size:100%;
+}
+
+div.darkOrangeBox a:visited.imageLink, div.darkOrangeBox a.imageLink {
+background:none repeat scroll 0 0 transparent;
+margin:0;
+padding:0;
+}
+
+div.wrap .darkOrangeBox li {
+padding:0;
+}
+
+div.wrap a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#0000ff;
+display:inline-block;
+}
+
+
+div.wrap a:visited {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif") no-repeat scroll 3px 5px #FFFFFF;
+color:#660099;
+}
+
+div.wrap li {
+padding: 14px 0;
+}
+
+/* HIDE syndication-only content */
+.textAlternative {display:none;
+}
+
+
+/* STYLESHEET FOR new Twitter widget trial */
+/*----------------------------------------------*/
+
+/* loading text */
+.tweets{
+font-size: 14px;
+font-family: Arial;
+}
+ 
+/* tweet list container */
+.tweet_list {
+font-size: 12px;
+font-family: Arial;
+width:200px;
+list-style: none;
+margin: 0;
+padding: 0;
+overflow-y: hidden;
+background-color: #e8e8e8;
+}
+ 
+/* Tweet list */
+.tweet_list li {
+overflow-y: auto;
+overflow-x: hidden;
+padding: 0.5em;
+}
+ 
+/* Tweet list links*/
+.tweet_list li a {
+color: #0000ff;
+background:none;
+padding:0;
+}
+
+.tweet_list a, .tweet_avatar a {
+padding: none;
+background: transparent 0px none;
+}
+ 
+/* Tweet list alternating background colour */
+.tweet_list .tweet_even {
+background-color: #cfcfcf;
+}
+ 
+.tweet_list .tweet_avatar {
+padding-right: .5em; float: left;
+background:none;
+padding:none;
+
+}
+ 
+.tweet_list .tweet_avatar img {
+vertical-align: middle;
+}
+
+.tweet_time a {
+color: #0C717A;
+}

@@ -1,0 +1,209 @@
+@charset "utf-8";
+
+
+/* SPACING FOR Zone 2, 4, 5, 6 and 7 H4s */
+/*----------------------------------------------*/
+#Zone2 #dgr11 .subContent, #Zone4 #dgr11 .subContent, #Zone5 #dgr11 .subContent, #Zone6 #dgr11 .subContent, #Zone7 #dgr11 .subContent {
+padding:8px 0 2px 0;
+}
+
+/* SPACING FOR Zone 2 H3s */
+/*----------------------------------------------*/
+#dgr11 h3 {
+margin: 0 0 4px 0;
+padding: 0 0 3px 0;
+font-size: 120%;
+background: none;
+/*border-bottom: 1px solid #E0E0E0;*/
+}
+
+
+/* STYLESHEET FOR Zone 3 images and RHMs */
+/*----------------------------------------------*/
+/*---- this makes the images in the right hand column larger (200x90px) and ensures the correct bullets show in links -----*/
+
+#c08 .wrap h3 {
+background: url('http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/et/images/rhm_tr.gif')  no-repeat scroll left top #E0E0E0;
+display: block;
+padding: 3px 3px 3px 15px;
+font-size:100%;
+}
+
+.dgr10 div.darkOrangeBox h4 {
+clear:left;
+font-size:100%;
+margin:3px 0 0;
+padding:0 3px 3px 15px;
+}
+
+.dgr10 div.darkOrangeBox img, .dgr10 div.lightOrangeBox img {
+height:90px;
+width:200px;
+border:none;
+padding:2px 0px 2px 0;
+margin:5px 0 5px 10px;
+}
+
+.dgr10 .darkOrangeBox ul li a, .dgr10 .lightOrangeBox ul li a  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_active.gif") no-repeat scroll 3px 5px transparent;
+color:#000;
+padding:0 10px 4px 15px;
+}
+
+.dgr10 .darkOrangeBox ul li a:visited, .dgr10 div.darkOrangeBox ul li a:visited, .dgr10 .lightOrangeBox ul li a:visited,  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_visited.gif") no-repeat scroll 3px 5px transparent;
+color:#666;
+}
+
+#c08 .wrap ul {
+list-style: none;
+padding-left: 15px;
+}
+
+#c08 .wrap ul li a {
+background: url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_active.gif") no-repeat scroll 3px 5px transparent;
+color: #000;
+padding: 0 10px 4px 15px;
+border:none;
+}
+#c08 .wrap ul li a:visited {
+background: url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_visited.gif") no-repeat scroll 3px 5px transparent;
+color: #666;
+}
+
+/*---- Zone 2 fixes -----*/
+/*---- H3 -----*/
+#Zone2 div.wrap h3 {
+  background-image:none;
+  background-position:initial initial;
+  background-repeat:initial initial;
+  border-top-color:#E0E0E0;
+  border-top-style:solid;
+  border-top-width:1px;
+  font-size:120%;
+  font-weight:bold;
+  margin:7px 0 6px;
+  padding:8px 0 4px;
+}
+/*---- a -----*/
+#Zone2 ul.subLinks {
+  clear:both;
+  list-style:none;
+  margin:0 0 -4px;
+  overflow:hidden;
+  padding:0 0 10px;
+  width:100%;
+}
+
+#Zone2 ul li a {
+  background-attachment:scroll;
+  background-color:transparent;
+  background-image:url(http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_active.gif);
+  background-position:3px 5px;
+  background-repeat:no-repeat no-repeat;
+  color:#0000FF;
+  padding:0 10px 4px 15px;
+}
+#Zone2 ul li a:visited {
+  background-attachment:scroll;
+  background-color:transparent;
+  background-image:url(http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/bluelink_visited.gif);
+  background-position:3px 5px;
+  background-repeat:no-repeat no-repeat;
+  color:#660099;
+  padding:0 10px 4px 15px;
+}
+
+/*---- sorts out the #promo image link -----*/
+#promo a.imageLink {
+margin: 0;
+padding: 0;
+background: none;
+}
+
+/* STYLESHEET to get bullets etc inline */
+/*----------------------------------------------*/
+/*#dgr11 ul {
+display: inline;
+padding-left: 10px;
+}
+
+#dgr11 div.subContent h4 {
+display: inline;
+}
+
+#dgr11 div.subContent subLinks {
+display: inline;
+}
+*/
+
+/* HIDE syndication-only content */
+.textAlternative {display:none;
+}
+
+
+
+
+
+/* styling for chapter nav */
+/*----------------------------------------------*/
+.holder {
+   width: 460px;
+}
+
+.rollover a{
+   display: block;
+   float: left;
+   text-indent: -9999px;
+   margin: auto auto auto auto;
+   cursor: pointer;
+   outline: transparent solid 0px;
+   padding: 0 0 0 5px;
+}
+.rollover a p{
+   font-size: 80%;
+   width:85px;
+   text-align:center;
+   /*padding-top:25px;*/
+}
+#exampleButton1 a{
+   height: 145px; /*This height is the visible portion of the button only*/
+   width: 145px; /*Put your image width here*/
+   background: url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_202307.gif') no-repeat left top;
+}
+#exampleButton1 a:hover{
+   background-position: left -145px; /*This negative value should match the height above*/
+}
+#exampleButton2 a{
+   height: 145px; /*This height is the visible portion of the button only*/
+   width: 145px; /*Put your image width here*/
+   background: url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_202308.gif') no-repeat left top;
+}
+#exampleButton2 a:hover{
+   background-position: left -145px; /*This negative value should match the height above*/
+}
+#exampleButton3 a{
+   height: 145px; /*This height is the visible portion of the button only*/
+   width: 145px; /*Put your image width here*/
+   background: url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_202309.gif') no-repeat left top;
+}
+#exampleButton3 a:hover{
+   background-position: left -145px; /*This negative value should match the height above*/
+}
+#exampleButton4 a{
+   height: 145px; /*This height is the visible portion of the button only*/
+   width: 145px; /*Put your image width here*/
+   background: url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_202310.gif') no-repeat left top;
+}
+#exampleButton4 a:hover{
+   background-position: left -145px; /*This negative value should match the height above*/
+}
+#exampleButton5 a{
+   height: 145px; /*This height is the visible portion of the button only*/
+   width: 145px; /*Put your image width here*/
+   background: url('http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_202311.gif') no-repeat left top;
+}
+#exampleButton5 a:hover{
+   background-position: left -145px; /*This negative value should match the height above*/
+}
+

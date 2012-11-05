@@ -1,0 +1,515 @@
+body {
+	margin:0px;
+	padding:0px;
+	width:100%;
+	font-size:11pt
+}
+html {
+	margin:0px;
+	padding:0px
+}
+a:link {
+	background:#fff;
+	padding-left:0px;
+	text-decoration:underline;
+	color:#FF0000
+}
+a:visited {
+	background:#fff;
+	padding-left:0px;
+	text-decoration:underline;
+	color:#ff6600
+}
+#c09, #c11, #c08, #c11, #c05 {
+	display:none
+}
+#c12 {
+	margin-top:20px
+}
+#c14 {
+	padding:0px
+}
+#c04_float, #c03_float {
+	margin:auto;
+	float:none
+}
+#c04_blockFix, #c03_blockFix {
+	margin:auto
+}
+#c06 {
+	margin:auto
+}
+#c06_noResults {
+	margin-left:0px;
+	margin-top:10px
+}
+#dgr01 {
+	background:#fff;
+	height:100px;
+	width:99%;
+	color:#000
+}
+#dgr02 {
+	float:none;
+	padding-bottom:15px;
+	border-bottom:1px solid #FF9900;
+	margin-bottom:5px;
+	width:99%
+}
+.dgr05 {
+	float:none;
+	width:99%;
+	clear:left;
+	margin-bottom:10px
+}
+#dgr06 {
+	margin-top:0px
+}
+#dgr12 {
+	margin:10px 0px 10px 0px;
+	width:99%
+}
+#dgr01 div.directLogo {
+	display:none
+}
+#dgr01 div.tagLine {
+	padding:0px;
+	display:block
+}
+#dgr01 img {
+	position:relative;
+	left:0;
+	height:86px;
+	display:block;
+	border:0px
+}
+#dgr01 a {
+	position:relative;
+	top:auto;
+	left:auto
+}
+#dgr01 div.tagLine span {
+	display:none
+}
+#dgr02 ul {
+	display:none
+}
+.dgr05 div div {
+	float:none;
+	width:100%;
+	background:#fff;
+	color:#000;
+	padding-bottom:0px;
+	margin-bottom:15px;
+	clear:left
+}
+.dgr05 img {
+	margin-bottom:15px;
+	clear:left
+}
+.dgr05 a {
+	background:#fff;
+	color:#000
+}
+.dgr05 a:visited, .dgr05 div.lightBox, .dgr05 div.lightBox a, .dgr05 div.lightBox a:visited {
+	background:#fff;
+	color:#000
+}
+#dgr06 div.straightToContainer {
+	width:99%;
+	float:none
+}
+#dgr06 div.straightToContainer h2 {
+	color:#000;
+	background:#fff;
+	padding-left:0px
+}
+#dgr06 div.straightToContainerRM {
+	padding-right:0px
+}
+#dgr06 div.linksCollection {
+	float:none
+}
+#dgr06 div.linksCollectionRM {
+	padding:0px
+}
+#dgr06 div.evenLinksCollection {
+	float:none
+}
+#dgr06 h3 {
+	padding-bottom:10px
+}
+#dgr06 div.linksCollection, #dgr06 div.evenLinksCollection {
+	width:100%
+}
+#dgr06 div.peopleContainer {
+	width:99%;
+	float:none;
+	margin-bottom:10px
+}
+#dgr06 div.peopleItemContainer {
+	float:none;
+	padding-bottom:10px
+}
+#dgr06 div.peopleContainer h2 {
+	background:#fff;
+	color:#000;
+	padding-left:0px
+}
+#dgr06 div.peopleItemContainer h3 {
+	padding:0px 0px 10px 0px
+}
+#dgr06 div.peopleItemContainer img {
+	float:none
+}
+#dgr09 div.pageHeader {
+	border:0px;
+	margin:0px;
+	width:99%
+}
+#dgr09 div.pageHeader h2 {
+	background:#fff;
+	color:#000
+}
+#dgr09 div.pageHeader span {
+	padding:0px
+}
+#dgr09 div.pageHeader img {
+	display:none
+}
+#dgr09 div.introContent {
+	margin-bottom:10px;
+	width:99%;
+	float:none
+}
+#dgr09 div.itemHighlight {
+	float:none;
+	width:99%
+}
+#dgr09 div.itemHighlight img {
+	margin-bottom:10px
+}
+#dgr09 div.itemHighlight ul {
+	float:none;
+	margin-bottom:10px
+}
+#dgr09 div.itemHighlight ul li {
+	float:none
+}
+#dgr09 div.itemHighlight a {
+	float:none;
+	background:transparent
+}
+#dgr09 div.linksContainer {
+	float:none;
+	width:99%
+}
+#dgr06 div.peopleItemContainer {
+	float:none;
+	width:99%
+}
+#dgr09 div.itemContainer, #dgr09 div.evenItemContainer {
+	float:none
+}
+#dgr09 div.linksContainer div div {
+	padding-left:0px;
+	padding-right:0px
+}
+#dgr09 div.linksContainer h3, #dgr09 div.linksContainer h3 a {
+	float:none
+}
+#dgr09 div.linksContainer ul li a {
+	float:none;
+	padding-bottom:3px
+}
+#dgr09 div.linksContainer h3 a, #dgr09 h3 {
+	background:#fff;
+	color:#000
+}
+#dgr09 div.linkSummary {
+	border:0px;
+	background:#fff;
+	padding-top:10px;
+	float:none;
+	color:#000
+}
+#dgr09 div.linkSummary ul {
+	padding-left:0px;
+	padding-right:0px
+}
+#dgr09 div.linkSummary h3 {
+	background:#fff;
+	padding-left:0px;
+	color:#000
+}
+#dgr09 div.linkSummary a {
+	background:#fff;
+	color:#ff0000
+}
+#dgr11 div.subContent h3 {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.subContent {
+	width:99%;
+	padding-bottom:2px;
+	float:none;
+	clear:both;
+	margin-bottom:10px
+}
+#dgr11 div.introContent {
+	margin-bottom:10px;
+	float:none
+}
+#dgr11 div.pageHeader {
+	border:0px;
+	margin:0px;
+	width:99%
+}
+#dgr11 div.pageHeader h2 {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.pageHeader span {
+	padding:0px
+}
+#dgr11 div.pageHeader img {
+	display:none
+}
+#dgr11 table {
+	margin-left:1px
+}
+#dgr11 table th {
+	background:#fff;
+	color:#000
+}
+#dgr11 table td {
+	background:#fff;
+	border-color:#FF9900;
+	color:#000
+}
+#dgr11 table th.firstColumnHighlight {
+	background:#fff;
+	color:#000
+}
+#dgr11 ul.twoColLayout {
+	border-bottom:1px solid #FF9900;
+	border-top-width:2px
+}
+#dgr11 div.contactsInfo li {
+	background:#fff;
+	color:#000;
+	width:100%
+}
+#dgr11 div.contactsInfo li.contactHeader, #dgr11 div.contactsInfo li.contactHeader strong {
+	background:#fff;
+	color:#000
+}
+#dgr11 span.callOut {
+	color:#000;
+	float:right;
+	margin-bottom:2px;
+	background:#fff
+}
+#dgr11 div.ImageAndCaption p.captionText {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.ImageAndCaption_largeImage p.captionText {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.signiture p.captionText {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.linkSummary {
+	border:0px;
+	background:#fff;
+	padding-top:10px;
+	float:none;
+	color:#000
+}
+#dgr11 div.linkSummary ul {
+	padding-left:0px;
+	padding-right:0px
+}
+#dgr11 div.linkSummary h3 {
+	background:#fff;
+	padding-left:0px;
+	color:#000
+}
+#dgr11 div.linkSummary a {
+	background:#fff;
+	color:#000
+}
+#dgr11 ul.subLinks {
+	float:none;
+	width:100%
+}
+#dgr11 ul.subLinks li, #dgr11 ul.subLinks a {
+	float:none
+}
+#dgr11 div.atozContainer {
+	display:none
+}
+#dgr11 div.formContent h3 {
+	background:#fff;
+	color:#000
+}
+#dgr11 div.formContent h3.formContentHeader {
+	border:0px
+}
+#dgr11 div.formContent {
+	float:none
+}
+#dgr11 div.introContent ul.linksCollection {
+	float:none;
+	width:100%
+}
+#dgr11 div.introContent ul.linksCollection li {
+	float:none
+}
+#dgr11 div.introContent a {
+	float:none
+}
+#dgr11 div.formContent, #dgr13 div.searchWithin {
+	display:none
+}
+#dgr13 div.displayContainer {
+	margin:0px
+}
+#dgr13 div.displayContainer ul {
+	background:#fff;
+	border:0px;
+	color:#000
+}
+#dgr13 div.displayContainer span {
+	padding-left:0px
+}
+#dgr13 ul.threeColLayout a {
+	display:none
+}
+#dgr11 div.headingContainer {float:none;width:100%;text-align:left!important;}
+#dgr11 div.headingContainer * {float:none!important;text-align:left!important;}
+#dgr11 div.infoContainer {float:none;width:100%;}
+#dgr11 div.infoContainer * {float:none!important;}
+#dgr13 div.infoContainer {
+	width:49%;
+	
+}
+#dgr13 div.lastContainer {
+	width:2%
+}
+#dgr13 div.introContent {
+	width:99%;
+	margin-bottom:10px;
+	float:none
+}
+#dgr14 div.errorContainer {
+	margin-top:10px
+}
+#dgr15 div.pageHeader {
+	border:0px;
+	margin:0px;
+	width:99%
+}
+#dgr15 div.pageHeader h2 {
+	background:#fff;
+	color:#000
+}
+#dgr15 div.pageHeader span {
+	padding:0px
+}
+#dgr15 div.pageHeader img {
+	display:none
+}
+#dgr15 h3 {
+	background:#fff;
+	color:#000
+}
+#dgr15 div.dcEnvelope input.dcNext, #dgr15 div.dcEnvelope input.dcBack {
+	display:none
+}
+#dgr15 div.linkSummary {
+	border:0px;
+	background:#fff;
+	float:none;
+	color:#000
+}
+#dgr15 div.linkSummary ul {
+	padding-left:0px;
+	padding-right:0px
+}
+#dgr15 div.linkSummary h3 {
+	background:#fff;
+	padding-left:0px;
+	color:#000
+}
+#dgr15 div.linkSummary a {
+	background:#fff;
+	color:#000
+}
+#dgr02 div.rightDate {
+	margin-top:-8px;
+}
+#c01 {
+	border-bottom:none;
+}
+#dgr11 div.formContent.printform {
+	display:block;
+}
+#dgr11 div.printform .formError {
+	display:none;
+}
+#dgr11 div.printform form textarea {
+	width:98%;
+	height:720px;
+	margin-bottom:2em;
+	border:1px solid #333;
+	line-height:1.1em;
+}
+#dgr11 div.printform form input {
+	width:98%;
+	 border:1px solid #333;
+}
+#dgr11 div.formContent.printform .IE5macFix {
+	clear:left;
+	overflow:hidden;
+	width:100%;
+}
+#dgr11 div.formContent.printform .twoColLayout {
+	overflow:hidden;
+	width:100%;
+}
+#dgr11 div.formContent.printform .errorBox {
+	margin-bottom:10px;
+	padding:0;
+	border:none;
+}
+#dgr11 div.formContent.printform .errorBox .error {
+	display:none;
+}
+#dgr11 div.formContent.printform .errorBox .errorJump {
+	display:none;
+}
+#dgr11 div.formContent.printform .submitContainer {
+	display:none;
+}
+#dgr11 div.formContent.printform .ddmmyy select {
+	width:9em;
+}
+#dgr11 div.formContent.printform div.complaint {
+	border:none;
+}
+#dgr11 div.formContent.printform .twoColLayout {
+	clear:left;
+	display:block;
+	width:100%;
+}
+.cota, .poll, .social {
+	display:none;
+}
+#dgr11, #dgr09 {
+	overflow:inherit;
+}

@@ -1,0 +1,83 @@
+
+body {
+width:500px;
+color:#000000;
+font-family:verdana,arial,sans-serif;
+}
+
+.doit {
+margin:0;
+padding:4px 10px 10px 0;
+}
+
+.doit img {
+border:0px;
+}
+
+.doit p, .doit a {
+font-size:95%;
+}
+
+.doit a {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/redlink_active.gif") no-repeat scroll 5px 8px #FFFFFF;
+color:#FF5B00;
+display:inline-block;
+padding:3px 2px 2px 17px;
+text-decoration:none;
+}
+
+.imagelink {
+float:left;
+margin:0;
+padding:4px 10px 10px 0;
+}
+
+.imagelink a, .imagelink a:visited {
+background:none repeat scroll 0 0 transparent;
+
+
+}
+
+a:active{
+background: #0000FF; text-decoration: none
+}
+
+a:hover {
+text-decoration:underline;
+}
+
+a:visited  {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/arrowlink_visited.gif") no-repeat scroll 5px 8px #FFFFFF;
+color:#660099;
+}
+
+a span.tooltip {
+background:url("http://www.direct.gov.uk/prod_consum_dg/DGFragmentsCode/images/newwindow.gif") no-repeat scroll 3px 1px transparent;
+cursor:pointer;
+display:inline-block;
+height:12px;
+padding-right:19px;
+}
+
+a span.tooltip span {
+left:-999em;
+position:absolute;
+top:-999em;
+}
+
+.access  {
+left:-999em;
+position:absolute;
+}
+
+.style1 {
+font-size: 105%; text-decoration: none
+}
+
+.style1 a {
+background:url(none) no-repeat scroll 5px 8px #FFFFFF;
+display:inline;
+}
+
+
+

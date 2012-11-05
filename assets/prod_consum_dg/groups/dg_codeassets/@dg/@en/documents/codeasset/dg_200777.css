@@ -1,0 +1,25 @@
+
+
+@charset "utf-8";
+/* CSS Document
+
+.discimg {
+
+ width: 190px;
+}
+*/
+.formwrap .clockimg {
+
+ width: 250px;
+}
+
+.formwrap .newbutton {
+
+ width: 250px;
+}
+
+.ie6min-widthfix {width: 770px;}
+
+.ie6min-widthfix190 {width: 190px;}
+
+.ie6bottom-marginfix {margin-bottom: 30px;}

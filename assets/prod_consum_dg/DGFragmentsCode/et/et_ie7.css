@@ -1,0 +1,14 @@
+@media screen {
+.dgr10 div.rssbox p {word-wrap: break-word;}
+a:active{
+	text-decoration:underline;
+}
+#dgr01 .skip-link:active, #dgr01 .skip-link a:active {
+	position:absolute;
+	left:200px;
+	top:15px;
+	border-bottom:0;
+}
+#dgr02 a:active, #dgr07 a:active, #dgr08 a:active, #dgr10 a:active, #dgr11 a:active{text-decoration:underline;}
+span.accessibility{display:block;height:10px; width:10px;}
+}
