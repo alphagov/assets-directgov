@@ -1,0 +1,15 @@
+@media screen, projection {
+	#Content .steps,#ContentRight .steps {border-top:1px #ff5c01 solid;border-bottom:1px #ff5c01 solid;overflow:hidden;width:100%;margin-bottom:1.2em;padding:0.5em 0;}
+	#Content .steps h2,#ContentRight .steps h2 {font-size:1.5em;margin-left:5px;float:left;width:auto;}
+	#Content .holder .completed h2,#ContentRight .holder .completed h2 {margin-left:0;padding-left:30px;background:left top url('images/completeicon.png') no-repeat;min-height:20px;}
+	#Content .steps p,#ContentRight .steps p {float:right;width:auto;margin:0 5px 0 0;padding-top:0.2em;}
+	#Content .steps p span,#ContentRight .steps p span {font-weight:bold;}
+	#Content .formcon dt {clear:left;float:left;width:50%;font-size:1.2em;border-top:1px #e0e0e0 solid;padding:0.8em 0;}
+	#Content .formcon dt span {display:block;padding-right:15px;}
+	#Content .formcon dd {float:left;width:50%;font-weight:bold;font-size:1.2em;border-top:1px #e0e0e0 solid;padding:0.8em 0;}
+	#Content .formcon dd.first, #Content .formcon dt.first {border:none;margin:0;}
+	#Content .formcon .edit {width:100%;overflow:hidden;margin:1em 0;}
+	#Content .formtext,#ContentRight .formtext {padding:0.8em 5px;overflow:hidden;border-top:1px solid #e0e0e0;}
+	#Content .formtext.first,#ContentRight .formtext.first {padding-top:0;border:none;}
+	#Content .formtext h3,#ContentRight .formtext h3 {font-size:1.3em;margin-bottom:0.769em;}
+}

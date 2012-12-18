@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="../Templates/Tools and transactions one column.dwt" codeOutsideHTMLIsLocked="true" -->
+<head>
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Page title : Directgov - Section heading</title>
+	<!-- InstanceEndEditable -->
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />	
+	<meta name="robots" content="noindex, nofollow" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<link rel="shortcut icon" href="../favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="../dg.css" />
+	<!--[if lte IE 7]>
+		<link href="../dgie.css" rel="stylesheet" type="text/css" media="screen" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link href="../dgie6.css" rel="stylesheet" type="text/css" media="screen" />
+	<![endif]-->
+	<link rel="alternate stylesheet" type="text/css" href="../standard.css" title="Standard" />
+	<link rel="alternate stylesheet" type="text/css" href="../larger.css" title="Larger" />
+	<link rel="alternate stylesheet" type="text/css" href="../largest.css" title="Largest" />
+	<script type="text/javascript" src="../dg_scripts/jquery.js"></script>
+	<!-- InstanceBeginEditable name="customscripts" -->
+	<script type="text/javascript" src="../dg_scripts/dg.popup.js"></script>
+	<!-- InstanceEndEditable -->
+	<script type="text/javascript" src="../dg_scripts/dg.js"></script>
+</head>
+<!-- InstanceBeginEditable name="body" --><body class="slimheader"><!-- InstanceEndEditable -->
+<div class="iewrapper">
+     <div class="wrapper">
+	 	<a href="#Heading" class="access">Go to main content</a>				
+		<div class="printlogo">
+			<img src="../Images/printlogo.gif" alt="Directgov logo" />
+			<p>Public services all in one place</p>
+		</div>
+		<div class="innerwrapper">
+			<div class="onecolfloat">
+				<div class="onecolblock">
+					<div id="Section">
+						<div id="TextSize">
+							<a href="http://www.direct.gov.uk/en/Hl1/Help/Accessibility/index.htm" class="nojs">Resize text help</a>
+						</div>
+						<!-- InstanceBeginEditable name="Section" --><!--#include virtual="../Modules/HTML/8.0 Secondary navigation/8.2 Section sign posting/Tools and transactions header.html" --><!-- InstanceEndEditable -->
+					</div>
+					<div id="Content">
+						<div class="holder">
+							<!-- InstanceBeginEditable name="Content" --><!--#include virtual="../Modules/HTML/15.0 Tools and transactions/15.23 Form elements overview/Form example extended.html" --><!-- InstanceEndEditable -->					
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>	
+		<div id="Footer">
+			<div class="holder">
+				<!-- InstanceBeginEditable name="Footer" -->
+					<!--#include virtual="../Modules/HTML/Footer/Template.html" -->
+				<!-- InstanceEndEditable -->
+			</div>				
+		</div>	
+		<div class="pfooter">
+			<!-- InstanceBeginEditable name="PrintFooter" -->
+				<!--#include virtual="../Modules/HTML/Footer/Print footer.html" -->
+			<!-- InstanceEndEditable -->
+		</div>
+		<div id="TopBar">
+			<!-- InstanceBeginEditable name="TopBar" --><!--#include virtual="../Modules/HTML/7.0 Global primary navigation/7.2 Masthead elements/15.11 Slim bar.html" --><!-- InstanceEndEditable -->
+		</div>
+	</div>
+</div>
+<!-- InstanceBeginEditable name="ExtraScripts" --><!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>

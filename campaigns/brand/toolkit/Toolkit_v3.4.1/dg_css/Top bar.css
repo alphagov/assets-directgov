@@ -1,0 +1,21 @@
+@media screen,projection {
+	#TopBar {position:absolute;top:0;left:0;width:100%;}
+	#TopBar .holder {background:#ff5c00 left top url('images/mastbg.gif') repeat-x;margin-right:5px; margin-left:9px;position:relative;overflow:hidden;}
+	#TopBar .holder .tl {background:url('images/masttl.gif') no-repeat;height:3px;width:3px;}
+	#TopBar .holder .tr {background:url('images/masttr.gif') no-repeat;height:3px;width:3px;}
+	#TopBar img {margin:1.9em 0 0.3em 13px;width:auto;float:left;}	
+	#TopBar p {clear:both;margin:0 15px 1.4em 12px;color:#000;line-height:1.3em;}
+	#TopBar ul {float:right;width:auto;margin:1.2em 0 0 0; padding-right:8px}
+	#TopBar li {float:left;width:auto;}
+	#TopBar li a {color:#000;font-size:1.2em;text-decoration:none;background:left 0.6em url('images/topbardot.gif') no-repeat;display:block;padding:0.3em 7px 0 8px;}
+	#TopBar li a:hover {
+	text-decoration:underline;
+
+}
+
+	#TopBar ul .first, .bnp #TopBar ul .first {background-image:none;}
+	/*Slim header */
+	.slimheader .wrapper { padding-top:4.1em;}
+	.slimheader #TopBar img {margin-top:0.6em; margin-bottom:0.5em;}
+	.slimheader #TopBar ul {margin-top:0.7em;}
+}

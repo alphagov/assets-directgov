@@ -1,0 +1,54 @@
+@media screen, projection {
+	.complex_form ul li {display:inline;}
+	.complex_form table {text-align:center;width:100%;}
+	.complex_form table caption {font-size:1.2em;width:100%;font-weight:bold;text-align:left;background:#f2f1ef;color:#333;padding:5px 0 5px 10px;}
+	.complex_form table thead.access {left:-999em;position:absolute;top:-999em;}
+	.complex_form table thead th, .complex_form table thead td, .complex_form table tbody th, .complex_form table tbody td {padding:5px;border-bottom:1px solid #ccc;}
+	.complex_form table thead th {background:#e0e0e0;}
+	.complex_form table thead td {border-left:1px solid #ccc;background:#e0e0e0;font-weight:bold; vertical-align:bottom;}
+	.complex_form table tbody th {text-align:left; font-weight:normal;}
+	.complex_form table tbody td {border-left:1px solid #ccc;width:15%;}
+	.complex_form table td, .complex_form table th {font-size:1.2em;}
+	.cite { font-weight:normal;}
+	.scl_complex, .complex_key {border:1px solid #999; margin-bottom:1em;overflow:hidden;}
+	.scl_complex {margin-top:1em;}
+	.slc-head {width:100%;}
+	.slc-wrap {background:#e0e0e0;overflow:hidden;font-weight:bold;width:100%;font-size:1.2em;border:1px solid #ccc;border-width:0 0 1px 0;text-align:center;}
+	.slc-col1-wrap{float:left;width:100%;}
+	.slc-col1 span,.slc-col2 span,.slc-col3 span{padding:5px 3px 5px 3px; display:block}
+	.slc-col1{margin-right:60%;}
+	.slc-col2{float:left;width:30%;margin-left:-60%;background:url("../images/slc/pix_grey.png") repeat-y 0 0; }
+	.slc-col3{float:left;width:30%;margin-left:-30%;background:url("../images/slc/pix_grey.png") repeat-y 0 0; }
+	.slc-col2 div, .slc-col3 div { width:49.9%; float:left;}
+	div.bg {background:url("../images/slc/pix_grey.png") repeat-y 0 0; }
+	.complex_form {overflow:hidden;position:relative;width:100%;}
+	.complex_form fieldset {padding-top:1em;border:0;width:auto;margin-right:9px;}
+	.complex_form form {overflow:hidden;width:100%;}
+	.complex_form .formcon form .fwrap {float:left;width:auto;clear:none; margin-bottom:5px}
+	.complex_form .formcon form .fwrap div {float:left;width:auto;padding-top:1em;white-space:nowrap;}
+	.complex_form .formcon form div select {margin:0 8px;float:left;width:120px;}
+	.complex_form .formcon label {font-size:1.2em;white-space:nowrap;float:left;width:auto;padding-top:0.1em;}
+	.complex_form .formcon fieldset label {float:none;padding:0;}
+	.complex_form .formcon form .fwrap fieldset div {float:left;width:auto;margin-top:2px;margin-right:15px;white-space:nowrap;padding:0;}
+	.complex_form .formcon .function {padding:1px; margin-right:0;}
+	.complex_form .formcon .function a, .complex_form .formcon .function button, .complex_form .formcon .function input {background-color:#efefef; color:#000;}
+	.complex_form .formcon form .fwrap .button {float:left; margin-right:0;position:relative;bottom:2px;padding-top:0;}
+	.complex_form .formcon form .fwrap .button .function {padding-top:1px;}
+	.complex_form .formcon .button button {margin-right:0;}
+	.bursary {overflow:hidden;width:100%;}
+	.bursary p {margin-left:5px;float:left;width:auto;padding-top:5px;font-weight:bold;}
+	.bursary ul {padding-top:7px;margin-bottom:1.2em;}
+	.bursary ul li {display:inline;width:auto;margin-left:2px;font-size:1.2em;}
+	#Content .bursary ul li a:hover {color:#000;text-decoration:none;}
+	.complex_form .expand {overflow:hidden;width:100%;clear:both;}
+	.complex_form .expand ul {float:right;width:auto;}
+	.complex_form .expand li {display:inline; width:auto;}
+	.complex_form .expand li a {font-size:1.1em;background:transparent url("../images/topbardot.gif") no-repeat left 0.6em; padding:0.3em 7px 0 8px;}
+	.complex_form .expand li.show a {background:none; padding-left:0;}
+	.complex_form .expand li.collapse a {padding-right:0;}	
+	#Content .formcon .complex_key {width:20em;}
+	#Content .formcon .complex_key dt {width:auto;border:none;padding:0.385em 0;clear:left;float:left;font-size:1.2em;}
+	#Content .formcon .complex_key dt span {padding:0 5px;display:block;}
+	#Content .formcon .complex_key dd {width:auto;border:none;padding:0.385em 0;margin:0;float:left;font-size:1.2em;font-weight:bold;}
+	.formwrap .complex_key h2 {background:none;}
+}

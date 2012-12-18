@@ -1,0 +1,117 @@
+@media screen, projection {
+	/*Generic*/
+	.formwrap .tl {background:url('images/formtl.gif') no-repeat;}
+	.formwrap .tr {background:url('images/formtr.gif') no-repeat;}
+	.formwrap .br {background:url('images/formbr.gif') no-repeat;}
+	.formwrap .bl {background:url('images/formbl.gif') no-repeat;}
+	.formwrap {padding:1px;background:#e0e0e0;position:relative;margin-bottom:1em;overflow:hidden;}
+	.formwrap h2, .formwrap h3, .formwrap h4 {color:#333;font-size:1.3em;background:#f2f1ef;padding:0.385em 10px;}
+	.formwrap .formblock h4 {color:#333;font-size:1.3em;background:#fff;padding:0;}
+	.formwrap .formblock h3 {background:#fff;padding:0;}
+	.formcon {background:#fff;overflow:hidden;padding:0 10px;}
+	form .formblock div a {color:#ff5b00;padding-left:9px;background:left 0.3em url('images/orangeicon.gif') no-repeat;text-decoration:none;font-size:1.2em;width:auto;}
+	form .formblock div a:visted { color:#666; text-decoration:underline;}
+	form .formblock .hradio div {float:left;width:auto;margin-bottom:0;padding-bottom:1em;}
+	form .formblock .hradio input, form .formblock .vradio input {width:auto;border:none;position:relative;top:1px;float:left;}
+	form .formblock .hradio input label, form .formblock .vradio label {margin:0 0 0 20px; display:block; padding:1px 0 0;}
+	form .formblock .vradio div {overflow:hidden;}
+	form .formblock .vradio input, form .formblock .hradio input {margin-right:5px;}
+	form .formblock .selectset legend span {font-size:1.2em;}
+	form .formblock .selectset label span {float:left;width:auto;margin:0.25em 3px 0 0;}
+	form .formblock .selectset select {float:left;width:auto;margin-right:7px;}
+	form .formblock.contact label span {margin:0.333em 10px 0 0;float:right;width:auto;}
+	form .formblock.contact .odd {float:left;width:30%;text-align:right;margin:0;}
+	form .formblock.contact .even {text-align:left;margin:0;}
+		form .formblock.contact .dob {width:20px;}
+	
+	.submitc {border-bottom:1px #e0e0e0 solid;border-top:1px #e0e0e0 solid;overflow:hidden;padding:1em 0;margin-bottom:1.2em;}
+	/*Messages*/
+	.errorm p {padding:0.166em 0 0 25px;margin-bottom:0.666em;background:left top url('images/erroricon.gif') no-repeat;min-height:20px;color:#ff0000;}
+	.formcon .errorm p {background:none;padding-left:0;}
+	.errorm li, .warningm li {margin-bottom:0.25em;}
+	.errorm li a, form .formblock .errorm a {font-weight:bold;padding-left:10px;font-size:1.2em;color:#ff0000;background:0 0.333em url('images/errorchev.gif') no-repeat;text-decoration:none;}
+	#Content .errorm li a:hover, #Content form .formblock .errorm a:hover {color:#ff0000;}
+	.warningm .function, .errorm .function {margin-top:1.2em;}
+	.warningm {padding:0.833em 10px 0.833em 10px;border:1px #ff5b00 solid;margin-bottom:1.2em;overflow:hidden;}
+	.warningm p {padding:0.166em 0 0 25px;margin-bottom:0.666em;background:left top url('images/warningicon.gif') no-repeat;min-height:20px;color:#ff5b00;}
+	.formcon .warningm p {background:none;padding-left:0;}
+	.warningm li a, .formblock .warningm a {font-weight:bold;padding-left:10px;font-size:1.2em;color:#ff5b00;background:0 0.333em url('images/orangeicon.gif') no-repeat;text-decoration:none;}
+	.errorm a:hover, .warningm a:hover, form .formblock a:hover {text-decoration:underline;}
+	/*Help*/
+	form .formblock .pagehelp {clear:left;}
+	
+
+	
+/* to implement question mark icon for help
+form .formblock .pagehelp a {color:#ff5b00;padding:3px 0 3px 25px;background:left 0em url('images/questionicon.gif') no-repeat;width:80px;display:block;height:20px;}
+*/
+
+	form .formblock.contact .pagehelp div, form .formblock.contact .pagehelp {float:none;width:auto;text-align:left;}
+	form .formblock .pagehelp div {margin:1em 0 0;padding:0.833em 10px;border:1px #e0e0e0 solid;background:#fff;}
+	form .formblock .pagehelp .show {position:relative;top:0;left:0;}
+	/*Buttons*/
+	.function {float:left;padding:1px;background:#7f7f7f;position:relative;margin-right:15px;}
+	.function a, .function button, .function input {text-align:center;font-size:1.2em;border:0;color:#fff;font-weight:bold;background:#999;padding:0.166em 8px 0.25em 8px;}
+	.function a {text-decoration:none;display:block;padding:0.3em 8px 0.35em 8px;height:auto;}
+	#Content .edit .function a:hover {color:#fff;}
+	#Content .function a:hover {color:#fff;}
+	.function button, .function input {width:auto;overflow:visible;cursor:pointer;}
+	.function .tr {background:url('images/greybuttontr.gif') no-repeat;height:2px;width:2px;}
+	.function .tl {background:url('images/greybuttontl.gif') no-repeat;height:2px;width:2px;}
+	.function .br {background:url('images/greybuttonbr.gif') no-repeat;height:2px;width:2px;}
+	.function .bl {background:url('images/greybuttonbl.gif') no-repeat;height:2px;width:2px;}
+	.submitc .right, .formcon .right {float:right;margin-right:0;margin-left:15px;}
+	.next, .link, .submit {background:#d83e0c}
+	.previous a, .previous button, .previous input {background:#999 4px center url('images/arrowleft.gif') no-repeat;padding-left:22px;}
+	.next a, .next button, .next input {background:#ff5c01 right center url('images/arrowright.gif') no-repeat;padding-right:22px;}
+	.link a, .link button, .link input {background:#ff5c01 4px center url('images/ohomeicon.gif') no-repeat;padding-left:22px;}
+	.submit a, .submit button, .submit input {background:#ff5c01 right center url('images/submiticon.gif') no-repeat;padding-right:22px;}
+	.cancel a, .cancel button, .cancel input {background:#999 4px center url('images/clearicon.gif') no-repeat;padding-left:17px;}
+	.next .tr, .link .tr, .submit .tr {background:url('images/greybuttontr.gif') no-repeat;height:2px;width:2px;}
+	.next .tl, .link .tl, .submit .tl {background:url('images/greybuttontl.gif') no-repeat;height:2px;width:2px;}
+	.next .br, .link .br, .submit .br {background:url('images/greybuttonbr.gif') no-repeat;height:2px;width:2px;}
+	.next .bl, .link .bl, .submit .bl {background:url('images/greybuttonbl.gif') no-repeat;height:2px;width:2px;}
+}
+@media screen, print {
+	form .formblock .chkbox label {margin:-15px 0 0 20px; display:block;}
+	form .formblock label span {font-size:1.2em;margin-right:12px;}
+	form .formblock div, .formblock div {overflow:hidden;margin-bottom:1em;}
+	form .formblock div.spacefix, .formblock div.spacefix { margin-bottom:0.5em;}	
+	form .formblock .pagehelp p strong {display:block;margin-bottom:0.833em;width:100%;}
+	form .formblock textarea {width:200px;height:100px;padding:2px;border:1px solid #7f9db9;}
+	form .formblock input {width:200px;border:1px #7f9db9 solid;padding:2px 1px 3px 2px;}
+	form .formblock .checkbox {width:auto;border:none;margin:1px 10px 0 0;padding:0;}
+	form .formblock fieldset {border:none;clear:left;overflow:hidden;}
+	form .formblock fieldset legend span {width:297px;display:block;white-space:normal;font-size:1.3em;color:#333;font-weight:bold;display:block;overflow:hidden;padding-bottom:1em;}
+	form .formblock .autowidth {width:9em;}
+	form .formblock .selectset .daymonth {width:4em;}
+	form .formblock .selectset .year {margin-right:0;}
+	.errorm {padding:0.833em 10px 0.833em 10px;border:1px #ff0000 solid;margin-bottom:1.2em;overflow:hidden;}
+	form .formblock, .formblock {border-top:1px #f2f1ef solid;overflow:hidden;padding-top:1em;margin-bottom:0.5em;}
+	.formcon .first {border:none;margin-top:1em;padding-top:0;}
+	
+	#Content .function a:visited {color:#fff;}
+}
+@media print {
+	.formblock {width:100%;overflow:hidden;} 
+	.formtext p a {font-size:1em;color:#333;font-weight:normal;}
+	.formwrap h2, .formwrap h3, .formwrap h4 {font-size:1.3em;}
+	.errorm p, .errorm a {color:#ff0000;font-weight:bold;}
+	.formtext {border-top:1px #e0e0e0 solid;border-bottom:1px #e0e0e0 solid;padding-top:10px;margin-bottom:10px;}
+	.formtext.first {border-top:none;padding-top:0;}
+	#Heading h1 {font-size:2em;color:#ff5b00;margin-bottom:15px;}
+	.searchr h2, .steps h2 {font-size:1.5em;margin-bottom:10px;padding:10px 0;border-top:1px #e0e0e0 solid;border-bottom:1px #e0e0e0 solid;}
+	.completed h2 {border-bottom:1px solid #ff5c01;border-top:1px solid #ff5c01;}
+	.seealso h2 {color:#fd5c01;font-size:1.2em;margin-bottom:5px;}
+	.formtext h3 {font-size:1.2em;margin-bottom:10px;}
+	.formcon dl {font-size:1.2em;}
+	.formcon dt {margin-bottom:3px;}
+	.formcon dd {font-weight:bold;margin-bottom:10px;}
+	.pagehelp .access {display:block;}
+	.pagehelp a {display:none;}
+	.pagehelp p {margin-bottom:0;}
+	form .formblock .hradio input, form .formblock .vradio input {width:auto;border:none;}
+	form .formblock fieldset legend .access {display:none;}
+	.errorm ul {list-style-type:none;}
+	.formblock fieldset {overflow:hidden;width:100%;margin-bottom:1.2em;display:block;}
+}

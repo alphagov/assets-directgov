@@ -1,0 +1,12 @@
+@media screen, projection {
+	.gridwrap{width:100%;}
+	.gridleft{width:450px;float:left;}
+	.gridright{clear:left;}
+	.gridwrap .formcon dl { margin:1em 0;}
+	.gridwrap .formcon dt {float:left;font-size:1.2em;padding:0.5em 0;}
+	.gridwrap .formcon dt span {padding-right:3px}
+	.gridwrap .formcon dd {font-size:1.2em;padding:0.5em 0;}
+	.gridwrap .formcon dd a {color:#FF5B00;text-decoration:none;}
+	.gridwrap .formcon dd a:hover {text-decoration:underline;}
+	.formcon.map {padding:0;}
+}

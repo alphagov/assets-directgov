@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="../Templates/Tools and transactions no right module.dwt" codeOutsideHTMLIsLocked="true" -->
+<head>
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Image map : Directgov - Transaction title</title>
+	<!-- InstanceEndEditable -->
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="robots" content="noindex, nofollow" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<link rel="shortcut icon" href="../favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="../dg.css" />
+	<!--[if lte IE 7]>
+		<link href="../dgie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link href="../dgie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<link rel="alternate stylesheet" type="text/css" href="../standard.css" title="Standard"/>
+	<link rel="alternate stylesheet" type="text/css" href="../larger.css" title="Larger" />
+	<link rel="alternate stylesheet" type="text/css" href="../largest.css" title="Largest" />
+	<script type="text/javascript" src="../dg_scripts/jquery.js"></script>
+	<script type="text/javascript" src="../dg_scripts/dg.js"></script>
+	<!-- InstanceBeginEditable name="customscripts" -->
+		<script type="text/javascript" src="../dg_scripts/LSC/dynamic.js"></script>
+		<script type="text/javascript" src="../dg_scripts/dg.popup.js"></script>
+	<!-- InstanceEndEditable -->
+</head>
+<!-- InstanceBeginEditable name="body" --><body class="slimheader"><!-- InstanceEndEditable -->
+<div class="iewrapper">
+	 <div class="wrapper">
+		<a href="#Heading" class="access">Go to main content</a>
+		<div class="printlogo">
+			<img src="../Images/printlogo.gif" alt="Directgov logo" />
+			<p>Public services all in one place</p>
+		</div>
+		<div class="innerwrapper">
+			<div class="twocolfloat">
+				<div class="twocolblock">
+					<div id="Section">
+						<div id="TextSize">
+							<a href="http://www.direct.gov.uk/en/Hl1/Help/Accessibility/index.htm" class="nojs">Resize text help</a>
+						</div>
+						<!-- InstanceBeginEditable name="Section" --><!--#include virtual="../Modules/HTML/8.0 Secondary navigation/8.2 Section sign posting/Tools and transactions header.html" --><!-- InstanceEndEditable -->
+					</div>
+					<div id="ContentRight">
+						<div class="holder">
+							<!-- InstanceBeginEditable name="Content" --><!--#include virtual="../Modules/HTML/LSC/Next Step map App.html" --><!-- InstanceEndEditable -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="SecondNav">
+				<div class="holder">
+					<!-- InstanceBeginEditable name="SecondNav" -->
+						<!--#include virtual="../Modules/HTML/8.0 Secondary navigation/Left hand navigation/Left hand nav.html" -->
+					<!-- InstanceEndEditable -->
+				</div>
+			</div>	
+			<div id="LHC">
+				<div class="holder">
+					<!-- InstanceBeginEditable name="LHC" -->
+						<!--#include virtual="../Modules/HTML/12.0 Right hand panels/12.2 Right hand modules/Provided by.html" -->
+					<!-- InstanceEndEditable -->
+				</div>
+			</div>
+		</div>		
+		<div id="Footer">
+			<div class="holder">
+				<ul>
+					<li><a href="#" class="first">About <acronym title="Driver and Vehicle Licensing Agency">DVLA</acronym></a></li>
+					<li><a href="#">Linking to Directgov</a></li>
+					<li><a href="#">Terms and conditions</a></li>
+					<li><a href="#">Your privacy</a></li>
+					<li><a href="#">&copy; Crown copyright</a></li>
+				</ul>
+			</div>				
+		</div>
+		<div class="pfooter">
+			<p>Service provided by <acronym title="Driver and Vehicle Licensing Agency">DVLA</acronym>: <span class="clear"></span>http://www.dvla.gov.uk/</p>
+			<p>Published: 2008/01/07 16:20:37 <abbr title="Greenwich Meridian Time">GMT</abbr></p>
+			<p>&copy; DVLA</p>
+		</div>
+		<div id="TopBar">
+			<!-- InstanceBeginEditable name="TopBar" --><!--#include virtual="../Modules/HTML/7.0 Global primary navigation/7.2 Masthead elements/15.11 Slim bar.html" --><!-- InstanceEndEditable -->
+		</div>
+	</div>
+</div>
+<!-- InstanceBeginEditable name="ExtraScripts" --><!-- InstanceEndEditable -->
+</body>
+<!-- InstanceEnd --></html>

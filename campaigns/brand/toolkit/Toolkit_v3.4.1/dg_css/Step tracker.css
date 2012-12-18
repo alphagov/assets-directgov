@@ -1,0 +1,34 @@
+@media screen, projection {
+	.steptrack .tl {background:url('images/formtl.gif') no-repeat;}
+	.steptrack .tr {background:url('images/formtr.gif') no-repeat;}
+	.steptrack {padding-top:1em;}
+	.steptrack p {padding:0 6px;margin-bottom:1.2em;}
+	.steptrack .stephead {position:relative;padding:1px 1px 0;background:#e0e0e0;}
+	.steptrack .stephead div {background:#f2f1ef;padding-bottom:0.5em;overflow:hidden;}
+	.steptrack .stephead p {margin-bottom:0;font-size:1em;float:left;width:auto;}
+	.steptrack .stephead .incomplete {float:right;}
+	.steptrack .stephead .incomplete strong span {color:#333;font-weight:normal;font-size:0.833em;}
+	.steptrack strong {font-style:normal;font-weight:bold;font-size:1.2em;color:#ff0000;}
+	.steptrack ul strong {font-size:1em;}
+	.steptrack h2 {font-size:1.3em;font-weight:normal;color:#333;padding:0.5em 7px 0.538em;font-weight:bold;}
+	.steptrack ul {border-bottom:1px solid #e0e0e0;border-top:1px solid #e0e0e0;}
+	.steptrack ul li {clear:left;font-weight:bold;color:#999;font-size:1.2em;background:5px 0.4em url('images/circleinactive.gif') no-repeat;min-height:28px;}
+	.steptrack ul .topactive {background:5px 0.4em url('images/circleactive.gif') no-repeat;}
+	.steptrack ul .topactive .topstep {color:#333;}
+	.steptrack ul .active {background:#ff5b00 5px 0.4em url('images/circletopactive.gif') no-repeat;}
+	.steptrack ul .active a {color:#fff;}
+	.steptrack ul .active .topstep {background:#ff5b00;color:#fff;}
+	.steptrack ul li a {text-decoration:none;display:block;overflow:hidden;color:#333;}
+	.steptrack ul ul li a {color:#333;}
+	.steptrack ul li a:hover {text-decoration:underline;}
+	.steptrack ul li .topstep {font-size:1em;float:none;color:#999;padding:0.584em 0 0.666em 3px;margin:0 0 0 27px;display:block;}
+	.steptrack ul li .complete {color:#333;}
+	.steptrack ul li span {float:left;width:auto;font-size:0.9em;display:block;margin:8px 0 0 11px;color:#fff;}
+	.steptrack ul ul {border-bottom:none;}
+	.steptrack ul ul li span {background:30px 0.833em url('images/lightgreyicon.gif') no-repeat;padding:0.5em 0 0.6em 40px;width:auto;margin:0;color:#999;font-size:1em;}
+	.steptrack ul ul li a span {background:30px 0.833em url('images/greyicon.gif') no-repeat;color:#333;text-decoration:none;font-weight:normal;}
+	.steptrack ul ul .active span {background:30px 0.833em url('images/whiteicon.gif') no-repeat;color:#fff;padding-left:40px;}
+	.steptrack ul ul .active {background:#ff5b00;}
+	.steptrack ul ul li {background:none;border-bottom:1px #e0e0e0 solid;font-weight:normal;overflow:hidden;font-size:1em;}
+	.steptrack ul li a:hover .stepno, .steptrack ul li a:focus .stepno, .steptrack ul li a:active .stepno {text-decoration:underline;color:#fff;}
+}
