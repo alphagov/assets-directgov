@@ -1,0 +1,23 @@
+
+@media screen {
+#RHC img {margin:0.25em 0;}
+#RHC .providedby a {font-size:100%;}
+.providedby {padding-bottom:0;}
+#RHC .providedby a:link {text-decoration:underline;}
+.tooltip {visibility:hidden}
+#divMain ul {list-style:disc; margin-bottom:1em;}
+#divMain ul li {font-size:120%; margin-left:2em;}
+#skiptocontent {position:relative;}
+#skiptocontent a {font-size:12px;left:-10000px;position:absolute;z-index:1000;}
+#skiptocontent a:focus, #skiptocontent a:active {left:1em;visibility:visible;}
+h2 {margin: 7px 0 6px 0; padding: 8px 0 4px 0; font-size: 140%; font-weight: bold; border-top: 1px solid #E0E0E0;}
+h3 {font-size: 120%; padding: 0 0 3px 0; margin: 3px 0 0 0; clear: left;}
+p.introText {font-size:140%; padding:0 0 10px 0;}
+}
+
+@media print {
+.access, #RHC, #TopBar, #Footer, .printlogo p {display:none;}
+.wrapper {width:100%; float:left;}
+#skiptocontent {visibility:hidden;}
+}
+
