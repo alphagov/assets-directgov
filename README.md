@@ -1,10 +1,17 @@
-directgov assets
+Directgov Assets
 ================
 
-This repository contains archived assets from direct.gov.uk. 
+This repository contains assets from Directgov which continue to be
+served via [Bouncer's nginx configuration](https://github.gds/gds/puppet/blob/master/modules/govuk/manifests/apps/bouncer.pp).
 
-These are not deployed directly from git, but instead taken from the copy 
-stored on S3. If changes are made, they can be synchronised with S3 like so:
+Changes to this repository are released by deploying [Bouncer](https://github.com/alphagov/bouncer). It is independent of the Bouncer version, so simply redeploying the current version of Bouncer is
+enough.
 
-    s3cmd -c s3cmd.conf sync --delete-removed assets/ s3://transition-assets/directgov/
-    s3cmd -c s3cmd.conf sync --delete-removed directgov_campaigns/ s3://transition-assets/directgov_campaigns/
+To replace one of these assets with a redirect or a 410 page, you must:
+* add the appropriate mapping to the Transition app
+* remove the asset from this repository
+* redeploy Bouncer
+
+Previously, S3 was involved in deploying changes.
+
+See also [assets-directgov](https://github.com/alphagov/assets-businesslink)
