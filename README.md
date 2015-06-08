@@ -14,4 +14,4 @@ To replace one of these assets with a redirect or a 410 page, you must:
 
 Previously, S3 was involved in deploying changes.
 
-See also [assets-directgov](https://github.com/alphagov/assets-businesslink)
+See also [assets-businesslink](https://github.com/alphagov/assets-businesslink)
