@@ -2,7 +2,7 @@ Directgov Assets
 ================
 
 This repository contains assets from Directgov which continue to be
-served via [Bouncer's nginx configuration](https://github.gds/gds/puppet/blob/master/modules/govuk/manifests/apps/bouncer.pp).
+served via [Bouncer's nginx configuration](https://github.com/alphagov/govuk-puppet/blob/master/modules/govuk/manifests/apps/bouncer.pp).
 
 Changes to this repository are released by deploying [Bouncer](https://github.com/alphagov/bouncer). It is independent of the Bouncer version, so simply redeploying the current version of Bouncer is
 enough.
